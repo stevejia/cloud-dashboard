@@ -1,0 +1,90 @@
+[
+  {
+    "width": 175,
+    "height": 60,
+    "type": "flowPipe",
+    "classes": 0,
+    "name": "流动管道",
+    "imUrl": "iconwenben"
+  },
+  {
+    "width": 175,
+    "height": 60,
+    "type": "text",
+    "classes": 0,
+    "name": "文本",
+    "imUrl": "iconwenben"
+  },
+  {
+    "width": 175,
+    "height": 60,
+    "type": "number",
+    "classes": 0,
+    "name": "数值",
+    "imUrl": "iconshuzi"
+  },
+  {
+    "width": 200,
+    "height": 40,
+    "type": "sharp",
+    "classes": 0,
+    "name": "直线",
+    "imUrl": "iconzhixian"
+  },
+  {
+    "width": 200,
+    "height": 60,
+    "type": "rect",
+    "classes": 0,
+    "name": "矩形",
+    "imUrl": "iconjuxing"
+  },
+  {
+    "width": 200,
+    "height": 200,
+    "type": "circle",
+    "classes": 0,
+    "name": "圆形",
+    "imUrl": "iconyuan"
+  },
+  {
+    "width": 200,
+    "height": 200,
+    "type": "animation",
+    "classes": 0,
+    "name": "动画",
+    "imUrl": "icondonghua"
+  },
+  {
+    "width": 526,
+    "height": 312,
+    "classes": 0,
+    "type": "container",
+    "name": "容器",
+    "imUrl": "iconrongqi"
+  },
+  {
+    "width": 600,
+    "height": 500,
+    "type": "webview",
+    "classes": 0,
+    "name": "webview",
+    "imUrl": "iconwebview"
+  },
+  {
+    "width": 200,
+    "height": 200,
+    "type": "测试",
+    "classes": 0,
+    "name": "测试",
+    "imUrl": "iconwenben"
+  },
+  {
+    "width": 700,
+    "height": 500,
+    "type": "测试表格",
+    "classes": 0,
+    "name": "测试表格",
+    "imUrl": "iconwenben"
+  }
+]

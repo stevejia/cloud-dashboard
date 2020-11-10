@@ -1,0 +1,1080 @@
+{
+    "stylesConfig": {
+        "theme": {
+            "主题切换": {
+                "type": "select",
+                "label": [
+                    {
+                        "label": "主题一",
+                        "value": "black"
+                    },
+                    {
+                        "label": "主题二",
+                        "value": "white"
+                    }
+                ],
+                "value": "black"
+            }
+        },
+        "white": {
+            "topConfig": {
+                "样式还原": {
+                    "type": "resetStyle"
+                },
+                "标题": {
+                    "type": "inputFontStyle",
+                    "value": [
+                        "新能源科技有限公司",
+                        "22px",
+                        "",
+                        "normal",
+                        "white"
+                    ]
+                },
+                "标题渐变色": {
+                    "type": "slider-gradient",
+                    "note": "启用",
+                    "hidden": false,
+                    "range": [
+                        0,
+                        360
+                    ],
+                    "value": [
+                        "",
+                        0
+                    ]
+                },
+                "标题阴影": {
+                    "type": "shadowStyle",
+                    "note": "启用",
+                    "value": [
+                        "",
+                        "2px",
+                        "2px",
+                        "2px",
+                        false
+                    ]
+                },
+                "标题位置": {
+                    "type": "select",
+                    "label": [
+                        {
+                            "label": "左",
+                            "value": "flex-start"
+                        },
+                        {
+                            "label": "居中",
+                            "value": "center"
+                        },
+                        {
+                            "label": "右",
+                            "value": "flex-end"
+                        }
+                    ],
+                    "value": "flex-start"
+                },
+                "副标题": {
+                    "type": "inputFontStyle",
+                    "note": "启用",
+                    "value": [
+                        "能效综合平台",
+                        "12px",
+                        "",
+                        "normal",
+                        "white",
+                        true
+                    ]
+                },
+                "Logo": {
+                    "type": "logo",
+                    "note": "启用",
+                    "value": [
+                        "",
+                        false,
+                        true
+                    ]
+                },
+                "背景色": {
+                    "type": "color-select",
+                    "value": "#3573c1"
+                },
+                "边框发光色": {
+                    "type": "color-select",
+                    "value": "rgba(255, 255, 255, 0.5)"
+                },
+                "隐藏顶部导航": {
+                    "type": "checkbox",
+                    "note": "启用",
+                    "value": false
+                },
+                "运行时间": {
+                    "type": "checkbox",
+                    "note": "启用",
+                    "value": false
+                },
+                "天气": {
+                    "type": "sky",
+                    "note": "启用",
+                    "value": [
+                        "14px",
+                        "上海",
+                        "normal",
+                        "rgba(255,255,255,1)",
+                        false
+                    ]
+                }
+            },
+            "centerConfig": {
+                "页面缩放": {
+                    "type": "zoom",
+                    "value": "1 x"
+                  },
+                "外边距": {
+                    "type": "slider",
+                    "range": [
+                        0,
+                        15
+                    ],
+                    "value": 15
+                },
+                "样式还原": {
+                    "type": "resetStyle"
+                },
+                "背景色": {
+                    "type": "color-select",
+                    "value": "#e2ecf1"
+                },
+                "栅格色": {
+                    "type": "color-select",
+                    "value": "rgba(255,255,255,0)"
+                },
+                "适配": {
+                    "type": "checkbox",
+                    "value": false
+                },
+                "容器列表": {
+                    "type": "select",
+                    "label": [],
+                    "value": ""
+                },
+                "全部显示": {
+                    "type": "checkbox",
+                    "value": false
+                },
+                "上传中信区域背景图": {
+                    "type": "upload-image",
+                    "value": ""
+                }
+            },
+            "leftConfig": {
+                "其他样式": [
+                    "#eee",
+                    "#2c90e5",
+                    "#e7e7e7"
+                ],
+                "样式还原": {
+                    "type": "resetStyle"
+                },
+                "字体样式": {
+                    "type": "fontStyle",
+                    "value": [
+                        "14px",
+                        "",
+                        "normal",
+                        "rgb(85, 85, 85)"
+                    ]
+                },
+                "选中的字体颜色": {
+                    "type": "color-select",
+                    "value": "#FFFFFF"
+                },
+                "选中的条目颜色": {
+                    "type": "color-select",
+                    "value": "rgb(53, 115, 193)"
+                },
+                "背景色": {
+                    "type": "color-select",
+                    "value": "rgb(255, 255, 255)"
+                },
+                "边框发光色": {
+                    "type": "color-select",
+                    "value": "rgba(255,255,255,0.5)"
+                },
+                "间隔线色": {
+                    "type": "color-select",
+                    "value": "rgba(255,255,255,0.5)"
+                },
+                "间隔线的渐变范围": {
+                    "type": "linear-gradient",
+                    "note": "取消渐变色",
+                    "value": [
+                        50,
+                        false
+                    ]
+                },
+                "菜单折叠": {
+                    "type": "checkbox",
+                    "value": true
+                },
+                "图标颜色":["#3573C1"]
+            }
+        },
+        "black": {
+            "topConfig": {
+                "样式还原": {
+                    "type": "resetStyle"
+                },
+                "标题": {
+                    "type": "inputFontStyle",
+                    "value": [
+                        "新能源科技有限公司",
+                        "22px",
+                        "",
+                        "normal",
+                        "white"
+                    ]
+                },
+                "标题渐变色": {
+                    "type": "slider-gradient",
+                    "note": "启用",
+                    "hidden": false,
+                    "range": [
+                        0,
+                        360
+                    ],
+                    "value": [
+                        "",
+                        0
+                    ]
+                },
+                "标题阴影": {
+                    "type": "shadowStyle",
+                    "note": "启用",
+                    "value": [
+                        "",
+                        "2px",
+                        "2px",
+                        "2px",
+                        false
+                    ]
+                },
+                "标题位置": {
+                    "type": "select",
+                    "label": [
+                        {
+                            "label": "左",
+                            "value": "flex-start"
+                        },
+                        {
+                            "label": "居中",
+                            "value": "center"
+                        },
+                        {
+                            "label": "右",
+                            "value": "flex-end"
+                        }
+                    ],
+                    "value": "flex-start"
+                },
+                "副标题": {
+                    "type": "inputFontStyle",
+                    "note": "启用",
+                    "value": [
+                        "能效综合平台",
+                        "12px",
+                        "",
+                        "normal",
+                        "white",
+                        true
+                    ]
+                },
+                "Logo": {
+                    "type": "logo",
+                    "note": "启用",
+                    "value": [
+                        "",
+                        false,
+                        true
+                    ]
+                },
+                "背景色": {
+                    "type": "color-select",
+                    "value": "#2d3035"
+                },
+                "边框发光色": {
+                    "type": "color-select",
+                    "value": "rgba(255, 255, 255, 0.5)"
+                },
+                "隐藏顶部导航": {
+                    "type": "checkbox",
+                    "note": "启用",
+                    "value": false
+                },
+                "运行时间": {
+                    "type": "checkbox",
+                    "note": "启用",
+                    "value": false
+                },
+                "天气": {
+                    "type": "sky",
+                    "note": "启用",
+                    "value": [
+                        "14px",
+                        "上海",
+                        "normal",
+                        "rgba(255,255,255,1)",
+                        false
+                    ]
+                }
+            },
+            "centerConfig": {
+                "页面缩放": {
+                    "type": "zoom",
+                    "value": "1 x"
+                  },
+                "外边距": {
+                    "type": "slider",
+                    "range": [
+                        0,
+                        15
+                    ],
+                    "value": 15
+                },
+                "样式还原": {
+                    "type": "resetStyle"
+                },
+                "背景色": {
+                    "type": "color-select",
+                    "value": "#2B2E37"
+                },
+                "栅格色": {
+                    "type": "color-select",
+                    "value": "rgba(255,255,255,0)"
+                },
+                "适配": {
+                    "type": "checkbox",
+                    "value": false
+                },
+                "容器列表": {
+                    "type": "select",
+                    "label": [],
+                    "value": ""
+                },
+                "全部显示": {
+                    "type": "checkbox",
+                    "value": false
+                },
+                "上传中信区域背景图": {
+                    "type": "upload-image",
+                    "value": ""
+                }
+            },
+            "leftConfig": {
+                "其他样式": [
+                    "#2b2e37",
+                    "#3b4149",
+                    "#2b2e37"
+                ],
+                "样式还原": {
+                    "type": "resetStyle"
+                },
+                "字体样式": {
+                    "type": "fontStyle",
+                    "value": [
+                        "14px",
+                        "",
+                        "normal",
+                        "#B7C0CD"
+                    ]
+                },
+                "选中的字体颜色": {
+                    "type": "color-select",
+                    "value": "#FFFFFF"
+                },
+                "选中的条目颜色": {
+                    "type": "color-select",
+                    "value": "#2B2E37"
+                },
+                "背景色": {
+                    "type": "color-select",
+                    "value": "#24252A"
+                },
+                "边框发光色": {
+                    "type": "color-select",
+                    "value": "rgba(255,255,255,0.5)"
+                },
+                "间隔线色": {
+                    "type": "color-select",
+                    "value": "rgba(255,255,255,0.5)"
+                },
+                "间隔线的渐变范围": {
+                    "type": "linear-gradient",
+                    "note": "取消渐变色",
+                    "value": [
+                        50,
+                        false
+                    ]
+                },
+                "菜单折叠": {
+                    "type": "checkbox",
+                    "value": true
+                },
+                "图标颜色":["#ffffff"]
+            }
+        }
+    },
+    "routeConfig": {
+        "currentSelectRoute": "cbcf5f17-b372-4013-b03b-c0db50324695",
+        "currentSelectChildrenRoute": null,
+        "routes": [
+            {
+                "id": "4b3fb11f-51d6-45e1-ba4e-bf1ddf6fb54c",
+                "name": "菜单一",
+                "icon": "iconxitong",
+                "origin": "local",
+                "type": "single",
+                "linkPage": "",
+                "children": [
+                    {
+                        "id": "670b9bcf-ac7a-4602-bec4-4c1d52109c64",
+                        "name": "子路由一",
+                        "icon": "iconxitong",
+                        "origin": "remote",
+                        "type": "single",
+                        "linkPage": "61f06766c7fb432e9b27261b80999726",
+                        "children": []
+                    },
+                    {
+                        "id": "7404293f-3d8c-4dec-95db-ec664e8f6860",
+                        "name": "子路由二",
+                        "icon": "iconxitong",
+                        "origin": "remote",
+                        "type": "multi",
+                        "linkPage": "bec178ce460744f9a9e19b91c1f35e08",
+                        "children": []
+                    },
+                    {
+                        "id": "7404293d-3d8c-4dec-95db-ec664e8f6860",
+                        "name": "子路由三",
+                        "icon": "iconxitong",
+                        "origin": "local",
+                        "type": "single",
+                        "linkPage": "49ba8c5e-493c-4e91-bafa-c183459a001d",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": "cbcf5f17-b372-4013-b03b-c0db50324695",
+                "name": "子路由四",
+                "icon": "iconxitong",
+                "origin": "local",
+                "type": "multi",
+                "linkPage": "74fd0a0f-f1a6-46c0-8334-6152046a07a5",
+                "children": [],
+                "role": "0",
+                "pages": [
+                    {
+                        "id": "58317628-3d5b-41dd-8c05-45505406389f",
+                        "name": "默认页面"
+                    },
+                    {
+                        "id": "5fd85fc2-f769-4538-b600-7a1f238cd655",
+                        "name": "新增页面-1"
+                    }
+                ]
+            }
+        ],
+        "pages": [
+            {
+                "id": "49ba8c5e-493c-4e91-bafa-c183459a001d",
+                "name": "单页面",
+                "type": "single",
+                "role": "0",
+                "showStatus": "1",
+                "number": 1
+            },
+            {
+                "id": "74fd0a0f-f1a6-46c0-8334-6152046a07a5",
+                "name": "多页面",
+                "type": "multi",
+                "role": "0",
+                "pages": [
+                    {
+                        "id": "58317628-3d5b-41dd-8c05-45505406389f",
+                        "name": "默认页面"
+                    },
+                    {
+                        "id": "5fd85fc2-f769-4538-b600-7a1f238cd655",
+                        "name": "新增页面-1"
+                    }
+                ],
+                "showStatus": "1",
+                "number": 1
+            }
+        ]
+    },
+    "centerConfigs": {
+        "61f06766g7fb432e9b27261b80999726": {
+            "zIndex": 44,
+            "compConfigs": [],
+            "comps": []
+        },
+        "49ba8c5e-493c-4e91-bafa-c183459a001d": {
+            "zIndex": 3,
+            "compConfigs": [],
+            "comps": []
+        },
+        "74fd0a0f-f1a6-46c0-8334-6152046a07a5": {
+            "zIndex": 3,
+            "compConfigs": [],
+            "comps": []
+        },
+        "58317628-3d5b-41dd-8c05-45505406389f": {
+            "zIndex": 4,
+            "compConfigs": [
+                {
+                    "parentEl": {
+                        "_prevClass": "dragDiv dragss"
+                    },
+                    "width": 225,
+                    "height": 207,
+                    "type": "text",
+                    "classes": 0,
+                    "name": "文本",
+                    "imUrl": "iconxitong",
+                    "left": 73,
+                    "top": 127,
+                    "zIndex": 3,
+                    "currentComp": null,
+                    "transform": 0,
+                    "compConfig": {
+                        "text": "文本",
+                        "styles": {
+                            "fontSize": "12px",
+                            "fontFamily": "",
+                            "lineHeight": "",
+                            "justifyContent": "center",
+                            "alignItems": "center",
+                            "color": "#FFFFFF",
+                            "fontWeight": "normal",
+                            "fontStyle": "",
+                            "textDecoration": "",
+                            "background": "",
+                            "border": "0px solid #FFFFFF",
+                            "opacity": 1
+                        },
+                        "white": {
+                            "backgroundColor": "",
+                            "borderColor": "#000000",
+                            "color": "#000000"
+                        },
+                        "black": {
+                            "backgroundColor": "",
+                            "borderColor": "#FFFFFF",
+                            "color": "#FFFFFF"
+                        },
+                        "highConfig": {
+                            "添加响应": {
+                                "type": "explain"
+                            },
+                            "可见": {
+                                "type": "eventVisible",
+                                "value": {
+                                    "pointId": [],
+                                    "rule": ""
+                                }
+                            },
+                            "闪烁": {
+                                "type": "eventOpacity",
+                                "value": {
+                                    "pointId": [],
+                                    "rule": ""
+                                }
+                            },
+                            "颜色响应": {
+                                "type": "eventColor",
+                                "value": {
+                                    "pointId": [],
+                                    "colorList": [
+                                        {
+                                            "color": "",
+                                            "start": "",
+                                            "end": ""
+                                        }
+                                    ]
+                                }
+                            },
+                            "添加事件": {
+                                "type": "explain"
+                            },
+                            "事件": {
+                                "type": "event",
+                                "remind": false,
+                                "value": [
+                                    {
+                                        "order": ""
+                                    }
+                                ]
+                            }
+                        },
+                        "baisicConfig": {
+                            "文本内容": {
+                                "type": "textarea",
+                                "value": "文本"
+                            },
+                            "尺寸": {
+                                "type": "widthHeight",
+                                "label": [
+                                    "宽度",
+                                    "高度"
+                                ],
+                                "value": [
+                                    225,
+                                    207
+                                ]
+                            },
+                            "位置": {
+                                "type": "widthHeight",
+                                "label": [
+                                    "横轴",
+                                    "纵轴"
+                                ],
+                                "value": [
+                                    73,
+                                    127
+                                ]
+                            },
+                            "线条1": {
+                                "type": "line"
+                            },
+                            "文本样式": {
+                                "type": "font-align",
+                                "value": [
+                                    "12px",
+                                    "",
+                                    "",
+                                    "center",
+                                    "center"
+                                ]
+                            },
+                            "字体样式": {
+                                "type": "font",
+                                "value": [
+                                    "#FFFFFF",
+                                    "normal",
+                                    "",
+                                    ""
+                                ]
+                            },
+                            "背景颜色": {
+                                "type": "color-select",
+                                "value": ""
+                            },
+                            "边框粗细": {
+                                "type": "slider",
+                                "status": 1,
+                                "range": [
+                                    0,
+                                    10
+                                ],
+                                "value": 0
+                            },
+                            "边框颜色": {
+                                "type": "color-select",
+                                "value": "#FFFFFF"
+                            },
+                            "显示度": {
+                                "type": "slider",
+                                "status": 1,
+                                "range": [
+                                    0,
+                                    100
+                                ],
+                                "value": 100
+                            },
+                            "样式还原": {
+                                "type": "resetStyle"
+                            },
+                            "线条": {
+                                "type": "line"
+                            },
+                            "旋转角度": {
+                                "type": "slider",
+                                "status": 1,
+                                "range": [
+                                    0,
+                                    360
+                                ],
+                                "value": 0
+                            }
+                        }
+                    }
+                }
+            ],
+            "comps": []
+        },
+        "5fd85fc2-f769-4538-b600-7a1f238cd655": {
+            "zIndex": 5,
+            "compConfigs": [
+                {
+                    "parentEl": {
+                        "_prevClass": "dragDiv dragss"
+                    },
+                    "width": 80,
+                    "height": 20,
+                    "type": "text",
+                    "classes": 0,
+                    "name": "文本",
+                    "imUrl": "iconxitong",
+                    "left": 506,
+                    "top": 42,
+                    "zIndex": 3,
+                    "currentComp": null,
+                    "transform": 0,
+                    "compConfig": {
+                        "text": "文本",
+                        "styles": {
+                            "fontSize": "12px",
+                            "fontFamily": "",
+                            "lineHeight": "",
+                            "justifyContent": "center",
+                            "alignItems": "center",
+                            "color": "#FFFFFF",
+                            "fontWeight": "normal",
+                            "fontStyle": "",
+                            "textDecoration": "",
+                            "background": "",
+                            "border": "0px solid #FFFFFF",
+                            "opacity": 1
+                        },
+                        "white": {
+                            "backgroundColor": "",
+                            "borderColor": "#000000",
+                            "color": "#000000"
+                        },
+                        "black": {
+                            "backgroundColor": "",
+                            "borderColor": "#FFFFFF",
+                            "color": "#FFFFFF"
+                        },
+                        "highConfig": {
+                            "添加响应": {
+                                "type": "explain"
+                            },
+                            "可见": {
+                                "type": "eventVisible",
+                                "value": {
+                                    "pointId": [],
+                                    "rule": ""
+                                }
+                            },
+                            "闪烁": {
+                                "type": "eventOpacity",
+                                "value": {
+                                    "pointId": [],
+                                    "rule": ""
+                                }
+                            },
+                            "颜色响应": {
+                                "type": "eventColor",
+                                "value": {
+                                    "pointId": [],
+                                    "colorList": [
+                                        {
+                                            "color": "",
+                                            "start": "",
+                                            "end": ""
+                                        }
+                                    ]
+                                }
+                            },
+                            "添加事件": {
+                                "type": "explain"
+                            },
+                            "事件": {
+                                "type": "event",
+                                "remind": false,
+                                "value": [
+                                    {
+                                        "order": ""
+                                    }
+                                ]
+                            }
+                        },
+                        "baisicConfig": {
+                            "文本内容": {
+                                "type": "textarea",
+                                "value": "文本"
+                            },
+                            "尺寸": {
+                                "type": "widthHeight",
+                                "label": [
+                                    "宽度",
+                                    "高度"
+                                ],
+                                "value": [
+                                    80,
+                                    20
+                                ]
+                            },
+                            "位置": {
+                                "type": "widthHeight",
+                                "label": [
+                                    "横轴",
+                                    "纵轴"
+                                ],
+                                "value": [
+                                    506,
+                                    42
+                                ]
+                            },
+                            "线条1": {
+                                "type": "line"
+                            },
+                            "文本样式": {
+                                "type": "font-align",
+                                "value": [
+                                    "12px",
+                                    "",
+                                    "",
+                                    "center",
+                                    "center"
+                                ]
+                            },
+                            "字体样式": {
+                                "type": "font",
+                                "value": [
+                                    "#FFFFFF",
+                                    "normal",
+                                    "",
+                                    ""
+                                ]
+                            },
+                            "背景颜色": {
+                                "type": "color-select",
+                                "value": ""
+                            },
+                            "边框粗细": {
+                                "type": "slider",
+                                "status": 1,
+                                "range": [
+                                    0,
+                                    10
+                                ],
+                                "value": 0
+                            },
+                            "边框颜色": {
+                                "type": "color-select",
+                                "value": "#FFFFFF"
+                            },
+                            "显示度": {
+                                "type": "slider",
+                                "status": 1,
+                                "range": [
+                                    0,
+                                    100
+                                ],
+                                "value": 100
+                            },
+                            "样式还原": {
+                                "type": "resetStyle"
+                            },
+                            "线条": {
+                                "type": "line"
+                            },
+                            "旋转角度": {
+                                "type": "slider",
+                                "status": 1,
+                                "range": [
+                                    0,
+                                    360
+                                ],
+                                "value": 0
+                            }
+                        }
+                    }
+                },
+                {
+                    "parentEl": {
+                        "_prevClass": "dragDiv dragss"
+                    },
+                    "width": 319,
+                    "height": 239,
+                    "type": "text",
+                    "classes": 0,
+                    "name": "文本",
+                    "imUrl": "iconxitong",
+                    "left": 75,
+                    "top": 125,
+                    "zIndex": 4,
+                    "currentComp": null,
+                    "transform": 0,
+                    "compConfig": {
+                        "text": "文本",
+                        "styles": {
+                            "fontSize": "12px",
+                            "fontFamily": "",
+                            "lineHeight": "",
+                            "justifyContent": "center",
+                            "alignItems": "center",
+                            "color": "#FFFFFF",
+                            "fontWeight": "normal",
+                            "fontStyle": "",
+                            "textDecoration": "",
+                            "background": "",
+                            "border": "0px solid #FFFFFF",
+                            "opacity": 1
+                        },
+                        "white": {
+                            "backgroundColor": "",
+                            "borderColor": "#000000",
+                            "color": "#000000"
+                        },
+                        "black": {
+                            "backgroundColor": "",
+                            "borderColor": "#FFFFFF",
+                            "color": "#FFFFFF"
+                        },
+                        "highConfig": {
+                            "添加响应": {
+                                "type": "explain"
+                            },
+                            "可见": {
+                                "type": "eventVisible",
+                                "value": {
+                                    "pointId": [],
+                                    "rule": ""
+                                }
+                            },
+                            "闪烁": {
+                                "type": "eventOpacity",
+                                "value": {
+                                    "pointId": [],
+                                    "rule": ""
+                                }
+                            },
+                            "颜色响应": {
+                                "type": "eventColor",
+                                "value": {
+                                    "pointId": [],
+                                    "colorList": [
+                                        {
+                                            "color": "",
+                                            "start": "",
+                                            "end": ""
+                                        }
+                                    ]
+                                }
+                            },
+                            "添加事件": {
+                                "type": "explain"
+                            },
+                            "事件": {
+                                "type": "event",
+                                "remind": false,
+                                "value": [
+                                    {
+                                        "order": ""
+                                    }
+                                ]
+                            }
+                        },
+                        "baisicConfig": {
+                            "文本内容": {
+                                "type": "textarea",
+                                "value": "文本"
+                            },
+                            "尺寸": {
+                                "type": "widthHeight",
+                                "label": [
+                                    "宽度",
+                                    "高度"
+                                ],
+                                "value": [
+                                    319,
+                                    239
+                                ]
+                            },
+                            "位置": {
+                                "type": "widthHeight",
+                                "label": [
+                                    "横轴",
+                                    "纵轴"
+                                ],
+                                "value": [
+                                    75,
+                                    125
+                                ]
+                            },
+                            "线条1": {
+                                "type": "line"
+                            },
+                            "文本样式": {
+                                "type": "font-align",
+                                "value": [
+                                    "12px",
+                                    "",
+                                    "",
+                                    "center",
+                                    "center"
+                                ]
+                            },
+                            "字体样式": {
+                                "type": "font",
+                                "value": [
+                                    "#FFFFFF",
+                                    "normal",
+                                    "",
+                                    ""
+                                ]
+                            },
+                            "背景颜色": {
+                                "type": "color-select",
+                                "value": ""
+                            },
+                            "边框粗细": {
+                                "type": "slider",
+                                "status": 1,
+                                "range": [
+                                    0,
+                                    10
+                                ],
+                                "value": 0
+                            },
+                            "边框颜色": {
+                                "type": "color-select",
+                                "value": "#FFFFFF"
+                            },
+                            "显示度": {
+                                "type": "slider",
+                                "status": 1,
+                                "range": [
+                                    0,
+                                    100
+                                ],
+                                "value": 100
+                            },
+                            "样式还原": {
+                                "type": "resetStyle"
+                            },
+                            "线条": {
+                                "type": "line"
+                            },
+                            "旋转角度": {
+                                "type": "slider",
+                                "status": 1,
+                                "range": [
+                                    0,
+                                    360
+                                ],
+                                "value": 0
+                            }
+                        }
+                    }
+                }
+            ],
+            "comps": []
+        }
+    }
+}

@@ -1,0 +1,842 @@
+{
+  "pid": "09277b16be374637a90cf3644609f0fe",
+  "version": 1,
+  "stylesConfig": {
+    "white": {
+      "topConfig": {
+        "样式还原": {
+          "type": "resetStyle"
+        },
+        "标题": {
+          "type": "inputFontStyle",
+          "value": ["正泰新能源智慧运维系统", "22px", "", "normal", "white"]
+        },
+        "标题渐变色": {
+          "type": "slider-gradient",
+          "note": "启用",
+          "hidden": false,
+          "range": [0, 360],
+          "value": ["", 0]
+        },
+        "标题阴影": {
+          "type": "shadowStyle",
+          "note": "启用",
+          "value": ["", "2px", "2px", "2px", false]
+        },
+        "标题位置": {
+          "type": "select",
+          "label": [
+            {
+              "label": "左",
+              "value": "flex-start"
+            },
+            {
+              "label": "居中",
+              "value": "center"
+            },
+            {
+              "label": "右",
+              "value": "flex-end"
+            }
+          ],
+          "value": "flex-start"
+        },
+        "副标题": {
+          "type": "inputFontStyle",
+          "note": "启用",
+          "value": [
+            "正泰新能源开发有限公司",
+            "12px",
+            "",
+            "normal",
+            "white",
+            true
+          ]
+        },
+        "Logo": {
+          "type": "logo",
+          "note": "启用",
+          "value": ["", false, true]
+        },
+        "背景色": {
+          "type": "color-select",
+          "value": "#3573c1"
+        },
+        "边框发光色": {
+          "type": "color-select",
+          "value": "rgba(255, 255, 255, 0.5)"
+        },
+        "隐藏顶部导航": {
+          "type": "checkbox",
+          "note": "启用",
+          "value": false
+        },
+        "运行时间": {
+          "type": "checkbox",
+          "note": "启用",
+          "value": false
+        },
+        "天气": {
+          "type": "sky",
+          "note": "启用",
+          "value": ["14px", "", "normal", "rgba(255,255,255,1)", false]
+        }
+      },
+      "centerConfig": {
+        "页面大小(非数字则无效)": {
+          "type": "widthHeight",
+          "label": ["宽", "高"],
+          "value": [1920, 1080]
+        },
+        "外边距": {
+          "type": "slider",
+          "range": [0, 15],
+          "value": 15
+        },
+        "样式还原": {
+          "type": "resetStyle"
+        },
+        "背景色": {
+          "type": "color-select",
+          "value": "#e2ecf1"
+        },
+        "栅格色": {
+          "type": "color-select",
+          "value": "rgba(255,255,255,0)"
+        },
+        "适配": {
+          "type": "checkbox",
+          "value": false
+        },
+        "容器列表": {
+          "type": "select",
+          "label": [],
+          "value": ""
+        },
+        "全部显示": {
+          "type": "checkbox",
+          "value": false
+        },
+        "上传中信区域背景图": {
+          "type": "upload-image",
+          "value": ""
+        }
+      },
+      "leftConfig": {
+        "其他样式": ["#eee", "#2c90e5", "#e7e7e7"],
+        "样式还原": {
+          "type": "resetStyle"
+        },
+        "字体样式": {
+          "type": "fontStyle",
+          "value": ["14px", "", "normal", "rgb(85, 85, 85)"]
+        },
+        "选中的字体颜色": {
+          "type": "color-select",
+          "value": "#FFFFFF"
+        },
+        "选中的条目颜色": {
+          "type": "color-select",
+          "value": "rgb(53, 115, 193)"
+        },
+        "背景色": {
+          "type": "color-select",
+          "value": "rgb(255, 255, 255)"
+        },
+        "边框发光色": {
+          "type": "color-select",
+          "value": "rgba(255,255,255,0.5)"
+        },
+        "间隔线色": {
+          "type": "color-select",
+          "value": "rgba(255,255,255,0.5)"
+        },
+        "间隔线的渐变范围": {
+          "type": "linear-gradient",
+          "note": "取消渐变色",
+          "value": [50, false]
+        },
+        "菜单折叠": {
+          "type": "checkbox",
+          "value": true
+        }
+      }
+    },
+    "black": {
+      "topConfig": {
+        "样式还原": {
+          "type": "resetStyle"
+        },
+        "标题": {
+          "type": "inputFontStyle",
+          "value": ["正泰新能源智慧运维系统", "22px", "", "normal", "white"]
+        },
+        "标题渐变色": {
+          "type": "slider-gradient",
+          "note": "启用",
+          "hidden": false,
+          "range": [0, 360],
+          "value": ["", 0]
+        },
+        "标题阴影": {
+          "type": "shadowStyle",
+          "note": "启用",
+          "value": ["", "2px", "2px", "2px", false]
+        },
+        "标题位置": {
+          "type": "select",
+          "label": [
+            {
+              "label": "左",
+              "value": "flex-start"
+            },
+            {
+              "label": "居中",
+              "value": "center"
+            },
+            {
+              "label": "右",
+              "value": "flex-end"
+            }
+          ],
+          "value": "flex-start"
+        },
+        "副标题": {
+          "type": "inputFontStyle",
+          "note": "启用",
+          "value": [
+            "正泰新能源开发有限公司",
+            "12px",
+            "",
+            "normal",
+            "white",
+            true
+          ]
+        },
+        "Logo": {
+          "type": "logo",
+          "note": "启用",
+          "value": ["", false, true]
+        },
+        "背景色": {
+          "type": "color-select",
+          "value": "#2d3035"
+        },
+        "边框发光色": {
+          "type": "color-select",
+          "value": "rgba(255, 255, 255, 0.5)"
+        },
+        "隐藏顶部导航": {
+          "type": "checkbox",
+          "note": "启用",
+          "value": false
+        },
+        "运行时间": {
+          "type": "checkbox",
+          "note": "启用",
+          "value": false
+        },
+        "天气": {
+          "type": "sky",
+          "note": "启用",
+          "value": ["14px", "", "normal", "rgba(255,255,255,1)", false]
+        }
+      },
+      "centerConfig": {
+        "页面大小(非数字则无效)": {
+          "type": "widthHeight",
+          "label": ["宽", "高"],
+          "value": ["1902", "1080"]
+        },
+        "外边距": {
+          "type": "slider",
+          "range": [0, 15],
+          "value": 15
+        },
+        "样式还原": {
+          "type": "resetStyle"
+        },
+        "背景色": {
+          "type": "color-select",
+          "value": "#2B2E37"
+        },
+        "栅格色": {
+          "type": "color-select",
+          "value": "rgba(255,255,255,0)"
+        },
+        "适配": {
+          "type": "checkbox",
+          "value": false
+        },
+        "容器列表": {
+          "type": "select",
+          "label": [],
+          "value": ""
+        },
+        "全部显示": {
+          "type": "checkbox",
+          "value": false
+        },
+        "上传中信区域背景图": {
+          "type": "upload-image",
+          "value": ""
+        }
+      },
+      "leftConfig": {
+        "其他样式": ["#2b2e37", "#3b4149", "#2b2e37"],
+        "样式还原": {
+          "type": "resetStyle"
+        },
+        "字体样式": {
+          "type": "fontStyle",
+          "value": ["14px", "", "normal", "#B7C0CD"]
+        },
+        "选中的字体颜色": {
+          "type": "color-select",
+          "value": "#FFFFFF"
+        },
+        "选中的条目颜色": {
+          "type": "color-select",
+          "value": "#2B2E37"
+        },
+        "背景色": {
+          "type": "color-select",
+          "value": "#24252A"
+        },
+        "边框发光色": {
+          "type": "color-select",
+          "value": "rgba(255,255,255,0.5)"
+        },
+        "间隔线色": {
+          "type": "color-select",
+          "value": "rgba(255,255,255,0.5)"
+        },
+        "间隔线的渐变范围": {
+          "type": "linear-gradient",
+          "note": "取消渐变色",
+          "value": [50, false]
+        },
+        "菜单折叠": {
+          "type": "checkbox",
+          "value": true
+        }
+      }
+    },
+    "theme": {
+      "主题切换": {
+        "type": "select",
+        "label": [
+          {
+            "label": "主题一",
+            "value": "black"
+          },
+          {
+            "label": "主题二",
+            "value": "white"
+          }
+        ],
+        "value": "black"
+      }
+    }
+  },
+  "routeConfig": {
+    "currentSelectRoute": "7a5da11e-03ca-488b-b4b9-58459cccd239",
+    "currentSelectChildrenRoute": null,
+    "routes": [
+      {
+        "id": "7a5da11e-03ca-488b-b4b9-58459cccd239",
+        "name": "主页",
+        "icon": "el-icon-s-home",
+        "origin": "system",
+        "type": "single",
+        "linkPage": "主页",
+        "children": [],
+        "role": "0",
+        "pages": [
+          {
+            "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+            "name": "默认页面"
+          }
+        ]
+      },
+      {
+        "id": "7a5da11e-03ca-488b-b4b9-58459cccd240",
+        "name": "监控大屏",
+        "icon": "el-icon-s-platform",
+        "origin": "system",
+        "type": "single",
+        "disabled": true,
+        "linkPage": "监控大屏",
+        "children": [],
+        "role": "0",
+        "pages": [
+          {
+            "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+            "name": "默认页面"
+          }
+        ]
+      },
+      {
+        "id": "7a5da11e-03ca-488b-b4b9-58459cccd241",
+        "name": "系统管理",
+        "icon": "el-icon-s-operation",
+        "origin": "system",
+        "type": "single",
+        "disabled": false,
+        "linkPage": "",
+        "isOpened": false,
+        "children": [
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd19",
+            "name": "电站管理",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd241",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "电站管理",
+            "children": [],
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          },
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd20",
+            "name": "设备信息",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd241",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "设备信息",
+            "children": [],
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          },
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd21",
+            "name": "区域管理",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd241",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "区域管理",
+            "children": [],
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          },
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd22",
+            "name": "生产计划",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd241",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "disabled": true,
+            "linkPage": "生产计划",
+            "children": [],
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          },
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd23",
+            "name": "账户管理",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd241",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "账户管理",
+            "children": [],
+            "disabled": true,
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          }
+        ],
+        "role": "0",
+        "pages": [
+          {
+            "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+            "name": "默认页面"
+          }
+        ]
+      },
+      {
+        "id": "7a5da11e-03ca-488b-b4b9-58459cccd242",
+        "name": "实时监控",
+        "icon": "el-icon-s-marketing",
+        "origin": "system",
+        "type": "single",
+        "linkPage": "",
+        "isOpened": false,
+        "disabled": false,
+        "children": [
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd2421",
+            "name": "电站监控",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd242",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "电站监控",
+            "disabled": false,
+            "children": [],
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          },
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd2422",
+            "name": "设备监控",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd242",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "设备监控",
+            "children": [],
+            "disabled": true,
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          },
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd2623",
+            "name": "监控管理",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd242",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "监控管理",
+            "children": [],
+            "disabled": false,
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          },
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd2423",
+            "name": "告(预)警",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd242",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "告(预)警",
+            "children": [],
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          }
+        ],
+        "role": "0",
+        "pages": [
+          {
+            "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+            "name": "默认页面"
+          }
+        ]
+      },
+      {
+        "id": "7a5da11e-03ca-488b-b4b9-58459cccd243",
+        "name": "运维管理",
+        "icon": "el-icon-s-cooperation",
+        "origin": "system",
+        "type": "single",
+        "linkPage": "",
+        "isOpened": false,
+        "children": [
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd243-1",
+            "name": "巡检管理",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd243",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "巡检管理",
+            "children": [],
+            "disabled": true,
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          },
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd243-2",
+            "name": "工单管理",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd243",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "工单管理",
+            "disabled": false,
+            "children": [],
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          },
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd243-3",
+            "name": "设备管理",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd243",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "设备管理",
+            "children": [],
+            "disabled": true,
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          },
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd243-4",
+            "name": "清洗管理",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd243",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "清洗管理",
+            "children": [],
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          },
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd243-7",
+            "name": "检修管理",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd243",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "检修管理",
+            "disabled": true,
+            "children": [],
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          },
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd243-8",
+            "name": "班组管理",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd243",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "班组管理",
+            "disabled": true,
+            "children": [],
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          },
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd243-5",
+            "name": "电站待办事项",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd243",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "电站待办事项",
+            "disabled": true,
+            "children": [],
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          },
+          {
+            "id": "7a5da11e-03ca-488b-b4b9-58459cccd243-6",
+            "name": "电站技术资料",
+            "pid": "7a5da11e-03ca-488b-b4b9-58459cccd243",
+            "icon": "iconmorentouxiang",
+            "origin": "system",
+            "type": "single",
+            "linkPage": "电站技术资料",
+            "disabled": true,
+            "children": [],
+            "role": "0",
+            "pages": [
+              {
+                "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+                "name": "默认页面"
+              }
+            ]
+          }
+        ],
+        "role": "0",
+        "pages": [
+          {
+            "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+            "name": "默认页面"
+          }
+        ]
+      },
+      {
+        "id": "7a5da11e-03ca-488b-b4b9-58459cccd244",
+        "name": "经营管理",
+        "icon": "el-icon-s-shop",
+        "origin": "system",
+        "type": "single",
+        "disabled": true,
+        "linkPage": "经营管理",
+        "children": [],
+        "role": "0",
+        "pages": [
+          {
+            "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+            "name": "默认页面"
+          }
+        ]
+      },
+      {
+        "id": "7a5da11e-03ca-488b-b4b9-58459cccd245",
+        "name": "安全管理",
+        "icon": "el-icon-first-aid-kit",
+        "origin": "system",
+        "type": "single",
+        "disabled": true,
+        "linkPage": "安全管理",
+        "children": [],
+        "role": "0",
+        "pages": [
+          {
+            "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+            "name": "默认页面"
+          }
+        ]
+      },
+      {
+        "id": "7a5da11e-03ca-488b-b4b9-58459cccd246",
+        "name": "智能分析",
+        "disabled": true,
+        "icon": "el-icon-s-data",
+        "origin": "system",
+        "type": "single",
+        "linkPage": "智能分析",
+        "children": [],
+        "role": "0",
+        "pages": [
+          {
+            "id": "46a75f96-5d88-4241-bf500-95dadd459004",
+            "name": "默认页面"
+          }
+        ]
+      },
+      {
+        "id": "7a5da11e-03ca-488b-b4b9-58459cccd247",
+        "name": "知识库",
+        "disabled": true,
+        "icon": "el-icon-s-management",
+        "origin": "system",
+        "type": "single",
+        "linkPage": "知识库",
+        "children": [],
+        "role": "0",
+        "pages": [
+          {
+            "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+            "name": "默认页面"
+          }
+        ]
+      },
+      {
+        "id": "7a5da11e-03ca-488b-b4b9-58459cccd248",
+        "name": "智能语音",
+        "disabled": true,
+        "icon": "el-icon-microphone",
+        "origin": "system",
+        "type": "single",
+        "linkPage": "智能语音",
+        "children": [],
+        "role": "0",
+        "pages": [
+          {
+            "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+            "name": "默认页面"
+          }
+        ]
+      },
+      {
+        "id": "7a5da11e-03ca-488b-b4b9-58459cccd249",
+        "name": "公告",
+        "disabled": true,
+        "icon": "el-icon-s-comment",
+        "origin": "system",
+        "type": "single",
+        "linkPage": "公告",
+        "children": [],
+        "role": "0",
+        "pages": [
+          {
+            "id": "46a75f96-5d88-4241-bf50-95dadd459004",
+            "name": "默认页面"
+          }
+        ]
+      }
+    ],
+    "pages": []
+  },
+  "centerConfigs": {}
+}

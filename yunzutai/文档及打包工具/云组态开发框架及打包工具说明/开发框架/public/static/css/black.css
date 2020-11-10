@@ -1,0 +1,6 @@
+.themeBlack .pagesDiv{
+    border-bottom: 1px solid #2b2e37;
+}
+.themeBlack .routesDiv:hover {
+    color: #fff;
+}

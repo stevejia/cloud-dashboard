@@ -1,0 +1,122 @@
+[
+  {
+    "width": 786,
+    "height": 345,
+    "type": "echarts_柱状折线图",
+    "classes": 3,
+    "name": "柱状折线图",
+    "imUrl": "iconzhuzhuangzhexiantu"
+  },
+  {
+    "width": 720,
+    "height": 300,
+    "type": "echarts_combinationCurve",
+    "classes": 3,
+    "name": "组合曲线图",
+    "imUrl": "iconzuhequxiantu"
+  },
+  {
+    "width": 786,
+    "height": 345,
+    "type": "echarts_cop",
+    "classes": 3,
+    "name": "能效COP",
+    "imUrl": "iconcop1"
+  },
+  {
+    "width": 1200,
+    "height": 600,
+    "type": "comparechart",
+    "classes": 3,
+    "name": "涨幅对比",
+    "imUrl": "iconzhangfuduibi"
+  },
+  {
+    "width": 950,
+    "height": 600,
+    "type": "statisticschart",
+    "classes": 3,
+    "name": "能耗统计",
+    "imUrl": "iconnenghaotongji"
+  },
+  {
+    "width": 1050,
+    "height": 650,
+    "type": "efficientchart",
+    "classes": 3,
+    "name": "节能核算",
+    "imUrl": "iconjienenghesuan"
+  },
+  {
+    "width": 1050,
+    "height": 650,
+    "type": "echarts_energyConsumptionEstimation",
+    "classes": 3,
+    "name": "能耗预测",
+    "imUrl": "iconnenghaoyuce"
+  },
+  {
+    "width": 220,
+    "height": 560,
+    "type": "树形关联图",
+    "classes": 3,
+    "name": "树形关联图",
+    "imUrl": "iconshuxingguanliantu"
+  },
+  {
+    "width": 900,
+    "height": 300,
+    "type": "rank2chart",
+    "classes": 3,
+    "name": "能耗排名图",
+    "imUrl": "iconnenghaopaimingtu"
+  },
+  {
+    "width": 740,
+    "height": 300,
+    "type": "currentenergychart",
+    "classes": 3,
+    "name": "当前能耗图",
+    "imUrl": "icondangqiannenghaotu"
+  },
+  {
+    "width": 120,
+    "height": 130,
+    "type": "scenes",
+    "classes": 3,
+    "name": "场景",
+    "imUrl": "iconchangjing"
+  },
+  {
+    "width": 904,
+    "height": 422,
+    "type": "timer",
+    "classes": 3,
+    "name": "定时",
+    "imUrl": "icondingshi"
+  },
+  {
+    "width": 790,
+    "height": 422,
+    "type": "aps",
+    "classes": 3,
+    "name": "排程",
+    "imUrl": "iconpaicheng"
+  },
+  {
+    "width": 1320,
+    "height": 452,
+    "type": "alarm",
+    "classes": 3,
+    "name": "报警",
+    "imUrl": "iconbaojing"
+  },
+  {
+    "width": 380,
+    "height": 300,
+    "type": "alarm2",
+    "classes": 3,
+    "name": "报警-2",
+    "imUrl": "iconbaojing2"
+  }
+]

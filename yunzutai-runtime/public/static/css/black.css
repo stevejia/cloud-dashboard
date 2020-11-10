@@ -1,0 +1,33 @@
+.themeBlack{
+    background-color: black;
+}
+.themeBlack .pagesDiv{
+    border-bottom: 1px solid #2b2e37;
+}
+.themeBlack .routesDiv:hover {
+    color: #fff;
+}
+.themeBlack .themeColor{
+    color: #fff;
+}
+.themeBlack .colorWhiteBlack{
+    color: #eee;
+}
+.themeBlack .backColor{
+    background: #24252a;
+}
+.themeBlack .dateClass .el-input__inner {
+    background: transparent!important;
+    border: 1px solid #404753!important ;
+    font-family: inherit!important;
+    color: inherit!important;
+  }
+.el-table__row.hover-row td{
+    background-color:#434a5a!important;
+}
+
+.themeBlack .table-pagination .btn-next,.themeBlack .table-pagination .btn-prev,.themeBlack .table-pagination .el-pagination__jump,.themeBlack .table-pagination .el-pagination__total
+,.themeBlack .table-pagination input{
+      color: #b2ddff!important;
+      background: transparent!important;
+}

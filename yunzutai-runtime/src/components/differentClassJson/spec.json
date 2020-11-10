@@ -1,0 +1,34 @@
+[
+  {
+    "width": 960,
+    "height": 650,
+    "type": "transformerchart",
+    "classes": 4,
+    "name": "变压器",
+    "imUrl": "iconbianyaqi"
+  },
+  {
+    "width": 1200,
+    "height": 650,
+    "type": "freezingchart",
+    "classes": 4,
+    "name": "冷冻站",
+    "imUrl": "iconlengdongzhan"
+  },
+  {
+    "width": 1200,
+    "height": 650,
+    "type": "correlatchart",
+    "classes": 4,
+    "name": "关联分析组件",
+    "imUrl": "iconguanlianfenxizujian"
+  },
+  {
+    "width": 400,
+    "height": 300,
+    "type": "monitor",
+    "classes": 4,
+    "name": "监控",
+    "imUrl": "iconjiankong"
+  }
+]

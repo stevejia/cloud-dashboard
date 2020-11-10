@@ -1,0 +1,292 @@
+[{
+    "label": "默认头像",
+    "icon":"iconmorentouxiang"
+},{
+    "label": "系统",
+    "icon":"iconxitong"
+},{
+    "label": "安全",
+    "icon":"iconanquan"
+},{
+    "label": "安全-1",
+    "icon":"iconanquan1"
+},{
+    "label": "安全-2",
+    "icon":"iconanquan2"
+},{
+    "label": "安全-3",
+    "icon":"iconanquan3"
+},{
+    "label": "饼图-1",
+    "icon":"iconbingtu1"
+},{
+    "label": "饼图-2",
+    "icon":"iconbingtu2"
+},{
+    "label": "饼图-3",
+    "icon":"iconbingtu3"
+},{
+    "label": "部件",
+    "icon":"iconbujian"
+},{
+    "label": "部件-2",
+    "icon":"iconbujian2"
+},{
+    "label": "部件-3",
+    "icon":"iconbujian3"
+},{
+    "label": "部件-4",
+    "icon":"iconbujian4"
+},{
+    "label": "不可出风",
+    "icon":"iconbukechufeng"
+},{
+    "label": "插销",
+    "icon":"iconchaxiao"
+},{
+    "label": "菜单",
+    "icon":"iconcaidan"
+},{
+    "label": "产品",
+    "icon":"iconchanpin"
+},{
+    "label": "插座",
+    "icon":"iconchazuo"
+},{
+    "label": "吹风",
+    "icon":"iconchuifeng"
+},{
+    "label": "吹风-2",
+    "icon":"iconchuifeng2"
+},{
+    "label": "电",
+    "icon":"icondian"
+},{
+    "label": "电-1",
+    "icon":"icondian1"
+},{
+    "label": "电-2",
+    "icon":"icondian2"
+},{
+    "label": "电灯",
+    "icon":"icondiandeng"
+},{
+    "label": "油表",
+    "icon":"iconbzd1"
+},{
+    "label": "插销-2",
+    "icon":"iconchaxiao2"
+},{
+    "label": "对比图",
+    "icon":"iconduibitu"
+},{
+    "label": "多云",
+    "icon":"iconduoyun"
+},{
+    "label": "电网",
+    "icon":"icondianwang"
+},{
+    "label": "断链",
+    "icon":"iconduanlian"
+},{
+    "label": "风扇",
+    "icon":"iconfengshan"
+},{
+    "label": "风力发电",
+    "icon":"iconfenglifadian"
+},{
+    "label": "风扇-3",
+    "icon":"iconfengshan3"
+},{
+    "label": "高级",
+    "icon":"icongaoji1"
+},{
+    "label": "节能",
+    "icon":"iconjieneng"
+},{
+    "label": "光伏",
+    "icon":"iconguangfu"
+},{
+    "label": "多云-2",
+    "icon":"iconduoyun2"
+},{
+    "label": "功能",
+    "icon":"icongongneng"
+},{
+    "label": "空调-1",
+    "icon":"iconkongtiao1"
+},{
+    "label": "空调-2",
+    "icon":"iconkongtiao2"
+},{
+    "label": "雷达图",
+    "icon":"iconleidatu"
+},{
+    "label": "晴",
+    "icon":"iconqing"
+},{
+    "label": "气泡图",
+    "icon":"iconqipaotu"
+},{
+    "label": "闪电",
+    "icon":"iconshandian1"
+},{
+    "label": "晴天-2",
+    "icon":"iconqingtian2"
+},{
+    "label": "闪电-2",
+    "icon":"iconshandian2"
+},{
+    "label": "闪电-4",
+    "icon":"iconshandian4"
+},{
+    "label": "闪电-3",
+    "icon":"iconshandian3"
+},{
+    "label": "摄像头",
+    "icon":"iconshexiangtou"
+},{
+    "label": "设备-1",
+    "icon":"iconshebei1"
+},{
+    "label": "设备",
+    "icon":"iconshebei"
+},{
+    "label": "首页-1",
+    "icon":"iconshouye1"
+},{
+    "label": "水滴",
+    "icon":"iconshuidi"
+},{
+    "label": "水滴",
+    "icon":"iconshuidi"
+},{
+    "label": "首页-3",
+    "icon":"iconshouye3"
+},{
+    "label": "随便-1",
+    "icon":"iconsuibian"
+},{
+    "label": "随便-2",
+    "icon":"iconsuibian2"
+},{
+    "label": "填充",
+    "icon":"icontianchong"
+},{
+    "label": "图标-1",
+    "icon":"icontubiao1"
+},{
+    "label": "图标-2",
+    "icon":"icontubiao2"
+},{
+    "label": "图标-5",
+    "icon":"icontubiao5"
+},{
+    "label": "图标-6",
+    "icon":"icontubiao6"
+},{
+    "label": "图标-8",
+    "icon":"icontubiao8"
+},{
+    "label": "无标题",
+    "icon":"iconUntitled"
+},{
+    "label": "维修",
+    "icon":"iconweixiu3"
+},{
+    "label": "无标题-2",
+    "icon":"iconUntitled2"
+},{
+    "label": "我的",
+    "icon":"iconwode"
+},{
+    "label": "消息",
+    "icon":"iconwode2"
+},{
+    "label": "下雪",
+    "icon":"iconxiaxue"
+},{
+    "label": "消息-2",
+    "icon":"iconxiaoxi2"
+},{
+    "label": "新能源-2",
+    "icon":"iconxinnengyuan2"
+},{
+    "label": "新能源-1",
+    "icon":"iconxinnengyuan1"
+},{
+    "label": "新能源-5",
+    "icon":"iconxinnengyuan5"
+},{
+    "label": "系能源插销",
+    "icon":"iconxinnengyuanchaxiao"
+},{
+    "label": "系能源插销-2",
+    "icon":"iconxinnengyuanchaxiao2"
+},{
+    "label": "循环",
+    "icon":"iconxunhuan"
+},{
+    "label": "夜晚",
+    "icon":"iconyewan"
+},{
+    "label": "仪表盘-1",
+    "icon":"iconyibiaopan1"
+},{
+    "label": "仪表盘-2",
+    "icon":"iconyibiaopan2"
+},{
+    "label": "柱状图-1",
+    "icon":"iconzhuzhuangtu1"
+},{
+    "label": "图标-3",
+    "icon":"icontubiao3"
+},{
+    "label": "图标-7",
+    "icon":"icontubiao7"
+},{
+    "label": "折线图-1",
+    "icon":"iconzhexiantu1"
+},{
+    "label": "图标-4",
+    "icon":"icontubiao4"
+},{
+    "label": "柱状图-2",
+    "icon":"iconzhuzhuangtu2"
+},{
+    "label": "消息-3",
+    "icon":"iconxiaoxi3"
+},{
+    "label": "下雨",
+    "icon":"iconxiayu"
+},{
+    "label": "我的-1",
+    "icon":"iconwode1"
+},{
+    "label": "新能源-3",
+    "icon":"iconxinnengyuan3"
+},{
+    "label": "温度计",
+    "icon":"iconwenduji"
+},{
+    "label": "我的-3",
+    "icon":"iconwode3"
+},{
+    "label": "小雨",
+    "icon":"iconxiaoyu"
+},{
+    "label": "新能源汽车",
+    "icon":"iconxinnengyuanqiche"
+},{
+    "label": "阴天",
+    "icon":"iconyintian"
+},{
+    "label": "维修-1",
+    "icon":"iconweixiu1"
+},{
+    "label": "新能源-4",
+    "icon":"iconxinnengyuan4"
+},{
+    "label": "维修-2",
+    "icon":"iconweixiu2"
+}]

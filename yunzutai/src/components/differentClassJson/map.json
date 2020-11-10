@@ -1,0 +1,2528 @@
+[
+    {
+        "type": "暖通空调",
+        "classes": 1,
+        "name": "暖通空调",
+        "children": [
+            {
+                "type": "风系统设备",
+                "name": "风系统设备",
+                "children": [
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风阀-垂直管段-关闭",
+                        "name": "风阀-垂直管段-关闭",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/fengfa-hor-0.svg",
+                        "_myIndex": "0-0-0"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风阀-垂直管段-25%",
+                        "name": "风阀-垂直管段-25%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/fengfa-hor-25.svg",
+                        "_myIndex": "0-0-1"
+                    },
+                    {
+                        "width": 190,
+                        "height": 270,
+                        "classes": 1,
+                        "type": "风阀-垂直管段-50%",
+                        "name": "风阀-垂直管段-50%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/fengfa-hor-50.svg",
+                        "_myIndex": "0-0-2"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风阀-垂直管段-75%",
+                        "name": "风阀-垂直管段-75%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/fengfa-hor-75.svg",
+                        "_myIndex": "0-0-3"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风阀-垂直管段-100%",
+                        "name": "风阀-垂直管段-100%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/fengfa-hor-100.svg",
+                        "_myIndex": "0-0-4"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风阀-水平管段-关闭",
+                        "name": "风阀-水平管段-关闭",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/fengfa-ver-0.svg",
+                        "_myIndex": "0-0-5"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风阀-水平管段-25%",
+                        "name": "风阀-水平管段-25%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/fengfa-ver-25.svg",
+                        "_myIndex": "0-0-6"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风阀-水平管段-50%",
+                        "name": "风阀-水平管段-50%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/fengfa-ver-50.svg",
+                        "_myIndex": "0-0-7"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风阀-水平管段-75%",
+                        "name": "风阀-水平管段-75%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/fengfa-ver-75.svg",
+                        "_myIndex": "0-0-8"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风阀-水平管段-100%",
+                        "name": "风阀-水平管段-100%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/fengfa-ver-100.svg",
+                        "_myIndex": "0-0-9"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风机-水平开口朝下",
+                        "name": "风机-水平开口朝下",
+                        "multiple": true,
+                        "imUrl": "./static/img/svg/nuantongkongtiaogif/fengji-down.gif",
+                        "url1": "./static/img/svg/nuantongkongtiao/fengxitongshebei/fengji-down.svg",
+                        "_myIndex": "0-0-10"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风机-水平开口朝上",
+                        "name": "风机-水平开口朝上",
+                        "multiple": true,
+                        "imUrl": "/static/img/svg/nuantongkongtiaogif/fengji-up.gif",
+                        "url1": "./static/img/svg/nuantongkongtiao/fengxitongshebei/fengji-up.svg",
+                        "_myIndex": "0-0-11"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风机-轴向水平",
+                        "name": "风机-轴向水平",
+                        "multiple": true,
+                        "imUrl": "/static/img/svg/nuantongkongtiaogif/phzfj.gif",
+                        "url1": "./static/img/svg/nuantongkongtiao/fengxitongshebei/fengji-hor.svg",
+                        "_myIndex": "0-0-12"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风机-水平开口朝左",
+                        "name": "风机-水平开口朝左",
+                        "multiple": true,
+                        "imUrl": "/static/img/svg/nuantongkongtiaogif/fengji-left.gif",
+                        "url1": "./static/img/svg/nuantongkongtiao/fengxitongshebei/fengji-left.svg",
+                        "_myIndex": "0-0-13"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风机-水平开口朝右",
+                        "name": "风机-水平开口朝右",
+                        "multiple": true,
+                        "imUrl": "/static/img/svg/nuantongkongtiaogif/fengji-right.gif",
+                        "url1": "./static/img/svg/nuantongkongtiao/fengxitongshebei/fengji-right.svg",
+                        "_myIndex": "0-0-14"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风机-轴向垂直",
+                        "name": "风机-轴向垂直",
+                        "multiple": true,
+                        "imUrl": "/static/img/svg/nuantongkongtiaogif/szphfj.gif",
+                        "url1": "./static/img/svg/nuantongkongtiao/fengxitongshebei/fengji-ver.svg",
+                        "_myIndex": "0-0-15"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "加湿器-关",
+                        "name": "加湿器-关",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/jiashiqi-close.svg",
+                        "_myIndex": "0-0-16"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "加湿器-开",
+                        "name": "加湿器-开",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/jiashiqi-open.svg",
+                        "_myIndex": "0-0-17"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "冷盘管-关闭",
+                        "name": "冷盘管-关闭",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/lengpanguan-0.svg",
+                        "_myIndex": "0-0-18"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "冷盘管-25%",
+                        "name": "冷盘管-25%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/lengpanguan-25.svg",
+                        "_myIndex": "0-0-19"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "冷盘管-50%",
+                        "name": "冷盘管-50%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/lengpanguan-50.svg",
+                        "_myIndex": "0-0-20"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "冷盘管-75%",
+                        "name": "冷盘管-75%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/lengpanguan-75.svg",
+                        "_myIndex": "0-0-21"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "冷盘管-100%",
+                        "name": "冷盘管-100%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/lengpanguan-100.svg",
+                        "_myIndex": "0-0-22"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "热盘管-关闭",
+                        "name": "热盘管-关闭",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/repanguan-0.svg",
+                        "_myIndex": "0-0-23"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "热盘管-25%",
+                        "name": "热盘管-25%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/repanguan-25.svg",
+                        "_myIndex": "0-0-24"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "热盘管-50%",
+                        "name": "热盘管-50%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/repanguan-50.svg",
+                        "_myIndex": "0-0-25"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "热盘管-75%",
+                        "name": "热盘管-75%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/repanguan-75.svg",
+                        "_myIndex": "0-0-26"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "热盘管-100%",
+                        "name": "热盘管-100%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/repanguan-100.svg",
+                        "_myIndex": "0-0-27"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "盘管",
+                        "name": "盘管",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/panguan.svg",
+                        "_myIndex": "0-0-28"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "文丘里阀",
+                        "name": "文丘里阀",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/wenqiulifa.svg",
+                        "_myIndex": "0-0-29"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "初效过滤-堵塞",
+                        "name": "初效过滤-堵塞",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/lvwang-jun-close.svg",
+                        "_myIndex": "0-0-30"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "初效过滤-正常",
+                        "name": "初效过滤-正常",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/lvwang-jun-open.svg",
+                        "_myIndex": "0-0-31"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "中高效过滤-堵塞",
+                        "name": "中高效过滤-堵塞",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/lvwang-sen-close.svg",
+                        "_myIndex": "0-0-32"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "中高效过滤-正常",
+                        "name": "中高效过滤-正常",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/lvwang-sen-open.svg",
+                        "_myIndex": "0-0-33"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "紫外-关",
+                        "name": "紫外-关",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/lvwang-uv-close.svg",
+                        "_myIndex": "0-0-34"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "紫外-开",
+                        "name": "紫外-开",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongshebei/lvwang-uv-open.svg",
+                        "_myIndex": "0-0-35"
+                    }
+                ],
+                "_myIndex": "0-0"
+            },
+            {
+                "type": "风系统管道",
+                "name": "风系统管道",
+                "children": [
+                    {
+                        "width": 262,
+                        "height": 220,
+                        "classes": 1,
+                        "type": "水平风管",
+                        "name": "水平风管",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan.svg",
+                        "_myIndex": "0-1-0"
+                    },
+                    {
+                        "width": 311,
+                        "height": 220,
+                        "classes": 1,
+                        "type": "水平风管-左闭口",
+                        "name": "水平风管-左闭口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-hor-leftclose.svg",
+                        "_myIndex": "0-1-1"
+                    },
+                    {
+                        "width": 287,
+                        "height": 220,
+                        "classes": 1,
+                        "type": "水平风管-左开口",
+                        "name": "水平风管-左开口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-hor-leftopen.svg",
+                        "_myIndex": "0-1-2"
+                    },
+                    {
+                        "width": 286,
+                        "height": 220,
+                        "classes": 1,
+                        "type": "水平风管-右闭口",
+                        "name": "水平风管-右闭口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-hor-rightclose.svg",
+                        "_myIndex": "0-1-3"
+                    },
+                    {
+                        "width": 286,
+                        "height": 286,
+                        "classes": 1,
+                        "type": "水平风管-右开口",
+                        "name": "水平风管-右开口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-hor-rightopen.svg",
+                        "_myIndex": "0-1-4"
+                    },
+                    {
+                        "width": 322,
+                        "height": 322,
+                        "classes": 1,
+                        "type": "直角连接-左下",
+                        "name": "直角连接-左下",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-left-down.svg",
+                        "_myIndex": "0-1-5"
+                    },
+                    {
+                        "width": 322,
+                        "height": 322,
+                        "classes": 1,
+                        "type": "直角连接-左上",
+                        "name": "直角连接-左上",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-left-up.svg",
+                        "_myIndex": "0-1-6"
+                    },
+                    {
+                        "width": 322,
+                        "height": 322,
+                        "classes": 1,
+                        "type": "直角连接-右下",
+                        "name": "直角连接-右下",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-right-down.svg",
+                        "_myIndex": "0-1-7"
+                    },
+                    {
+                        "width": 322,
+                        "height": 322,
+                        "classes": 1,
+                        "type": "直角连接-右上",
+                        "name": "直角连接-右上",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-right-up.svg",
+                        "_myIndex": "0-1-8"
+                    },
+                    {
+                        "width": 424,
+                        "height": 322,
+                        "classes": 1,
+                        "type": "T型连接-开口朝上",
+                        "name": "T型连接-开口朝上",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-three-down.svg",
+                        "_myIndex": "0-1-9"
+                    },
+                    {
+                        "width": 424,
+                        "height": 322,
+                        "classes": 1,
+                        "type": "T型连接-开口朝下",
+                        "name": "T型连接-开口朝下",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-three-up.svg",
+                        "_myIndex": "0-1-10"
+                    },
+                    {
+                        "width": 322,
+                        "height": 424,
+                        "classes": 1,
+                        "type": "T型连接-开口朝右",
+                        "name": "T型连接-开口朝右",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-three-left.svg",
+                        "_myIndex": "0-1-11"
+                    },
+                    {
+                        "width": 322,
+                        "height": 424,
+                        "classes": 1,
+                        "type": "T型连接-开口朝左",
+                        "name": "T型连接-开口朝左",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-three-right.svg",
+                        "_myIndex": "0-1-12"
+                    },
+                    {
+                        "width": 220,
+                        "height": 256,
+                        "classes": 1,
+                        "type": "垂直风管",
+                        "name": "垂直风管",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-ver.svg",
+                        "_myIndex": "0-1-13"
+                    },
+                    {
+                        "width": 220,
+                        "height": 282,
+                        "classes": 1,
+                        "type": "垂直风管-下闭口",
+                        "name": "垂直风管-下闭口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-ver-downclose.svg",
+                        "_myIndex": "0-1-14"
+                    },
+                    {
+                        "width": 220,
+                        "height": 281,
+                        "classes": 1,
+                        "type": "垂直风管-下开口",
+                        "name": "垂直风管-下开口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-ver-downopen.svg",
+                        "_myIndex": "0-1-15"
+                    },
+                    {
+                        "width": 220,
+                        "height": 260,
+                        "classes": 1,
+                        "type": "垂直风管-上闭口",
+                        "name": "垂直风管-上闭口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-ver-upclose.svg",
+                        "_myIndex": "0-1-16"
+                    },
+                    {
+                        "width": 220,
+                        "height": 260,
+                        "classes": 1,
+                        "type": "垂直风管-上开口",
+                        "name": "垂直风管-上开口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/fengxitongguandao/fengguan-ver-upopen.svg",
+                        "_myIndex": "0-1-17"
+                    }
+                ],
+                "_myIndex": "0-1"
+            },
+            {
+                "type": "水管设备",
+                "name": "水管设备",
+                "children": [
+                    {
+                        "width": 67,
+                        "height": 20,
+                        "classes": 1,
+                        "type": "把手-1",
+                        "name": "把手-1",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/bashou-1.svg",
+                        "_myIndex": "0-2-0"
+                    },
+                    {
+                        "width": 19,
+                        "height": 67,
+                        "classes": 1,
+                        "type": "把手-2",
+                        "name": "把手-2",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/bashou-2.svg",
+                        "_myIndex": "0-2-1"
+                    },
+                    {
+                        "width": 72,
+                        "height": 114,
+                        "classes": 1,
+                        "type": "水流传感器",
+                        "name": "水流传感器",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/chuanganqi.svg",
+                        "_myIndex": "0-2-2"
+                    },
+                    {
+                        "width": 75,
+                        "height": 75,
+                        "classes": 1,
+                        "type": "阀",
+                        "name": "阀",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/fa.svg",
+                        "_myIndex": "0-2-3"
+                    },
+                    {
+                        "width": 25,
+                        "height": 103,
+                        "classes": 1,
+                        "type": "阀门开关",
+                        "name": "阀门开关",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/famenkaiguan.svg",
+                        "_myIndex": "0-2-4"
+                    },
+                    {
+                        "width": 82,
+                        "height": 38,
+                        "classes": 1,
+                        "type": "开关-1",
+                        "name": "开关-1",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/kaiguan-1.svg",
+                        "_myIndex": "0-2-5"
+                    },
+                    {
+                        "width": 38,
+                        "height": 82,
+                        "classes": 1,
+                        "type": "开关-2",
+                        "name": "开关-2",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/kaiguan-2.svg",
+                        "_myIndex": "0-2-6"
+                    },
+                    {
+                        "width": 278,
+                        "height": 196,
+                        "classes": 1,
+                        "type": "方型锅炉-故障",
+                        "name": "方型锅炉-故障",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/guolv-squ-fault.svg",
+                        "_myIndex": "0-2-7"
+                    },
+                    {
+                        "width": 220,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "方型锅炉-停止",
+                        "name": "方型锅炉-停止",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/guolv-squ-off.svg",
+                        "_myIndex": "0-2-8"
+                    },
+                    {
+                        "width": 278,
+                        "height": 196,
+                        "classes": 1,
+                        "type": "方型锅炉-运行",
+                        "name": "方型锅炉-运行",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/guolv-squ-on.svg",
+                        "_myIndex": "0-2-9"
+                    },
+                    {
+                        "width": 250,
+                        "height": 131,
+                        "classes": 1,
+                        "type": "筒型锅炉-故障",
+                        "name": "筒型锅炉-故障",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/guolv-rou-fault.svg",
+                        "_myIndex": "0-2-10"
+                    },
+                    {
+                        "width": 250,
+                        "height": 131,
+                        "classes": 1,
+                        "type": "筒型锅炉-停止",
+                        "name": "筒型锅炉-停止",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/guolv-rou-off.svg",
+                        "_myIndex": "0-2-11"
+                    },
+                    {
+                        "width": 250,
+                        "height": 131,
+                        "classes": 1,
+                        "type": "筒型锅炉-运行",
+                        "name": "筒型锅炉-运行",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/guolv-rou-on.svg",
+                        "_myIndex": "0-2-12"
+                    },
+                    {
+                        "width": 328,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风冷热泵-故障",
+                        "name": "风冷热泵-故障",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/fenglengrebeng-fault.svg",
+                        "_myIndex": "0-2-13"
+                    },
+                    {
+                        "width": 328,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风冷热泵-停止",
+                        "name": "风冷热泵-停止",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/fenglengrebeng-off.svg",
+                        "_myIndex": "0-2-14"
+                    },
+                    {
+                        "width": 328,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "风冷热泵-运行",
+                        "name": "风冷热泵-运行",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/fenglengrebeng-on.svg",
+                        "_myIndex": "0-2-15"
+                    },
+                    {
+                        "width": 259,
+                        "height": 201,
+                        "classes": 1,
+                        "type": "冷却塔-故障",
+                        "name": "冷却塔-故障",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/lengqueta-fault.svg",
+                        "_myIndex": "0-2-16"
+                    },
+                    {
+                        "width": 259,
+                        "height": 201,
+                        "classes": 1,
+                        "type": "冷却塔-停止",
+                        "name": "冷却塔-停止",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/lengqueta-off.svg",
+                        "_myIndex": "0-2-17"
+                    },
+                    {
+                        "width": 259,
+                        "height": 190,
+                        "classes": 1,
+                        "type": "冷却塔-运行",
+                        "name": "冷却塔-运行",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/lengqueta-on.svg",
+                        "_myIndex": "0-2-18"
+                    },
+                    {
+                        "width": 285,
+                        "height": 167,
+                        "classes": 1,
+                        "type": "冷水机组-故障",
+                        "name": "冷水机组-故障",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/lengshuijizu-fault.svg",
+                        "_myIndex": "0-2-19"
+                    },
+                    {
+                        "width": 285,
+                        "height": 167,
+                        "classes": 1,
+                        "type": "冷水机组-停止",
+                        "name": "冷水机组-停止",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/lengshuijizu-off.svg",
+                        "_myIndex": "0-2-20"
+                    },
+                    {
+                        "width": 285,
+                        "height": 167,
+                        "classes": 1,
+                        "type": "冷水机组-运行",
+                        "name": "冷水机组-运行",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/lengshuijizu-on.svg",
+                        "_myIndex": "0-2-21"
+                    },
+                    {
+                        "width": 205,
+                        "height": 216,
+                        "classes": 1,
+                        "type": "膨胀罐",
+                        "name": "膨胀罐",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/pengzhangguan.svg",
+                        "_myIndex": "0-2-22"
+                    },
+                    {
+                        "width": 205,
+                        "height": 216,
+                        "classes": 1,
+                        "type": "热泵-故障",
+                        "name": "热泵-故障",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/rebeng-fault.svg",
+                        "_myIndex": "0-2-23"
+                    },
+                    {
+                        "width": 205,
+                        "height": 216,
+                        "classes": 1,
+                        "type": "热泵-停止",
+                        "name": "热泵-停止",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/rebeng-off.svg",
+                        "_myIndex": "0-2-24"
+                    },
+                    {
+                        "width": 205,
+                        "height": 216,
+                        "classes": 1,
+                        "type": "热泵-运行",
+                        "name": "热泵-运行",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/rebeng-on.svg",
+                        "_myIndex": "0-2-25"
+                    },
+                    {
+                        "width": 196,
+                        "height": 132,
+                        "classes": 1,
+                        "type": "热交换机-板式",
+                        "name": "热交换机-板式",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/rejiaohuanji-squ.svg",
+                        "_myIndex": "0-2-26"
+                    },
+                    {
+                        "width": 272,
+                        "height": 110,
+                        "classes": 1,
+                        "type": "热交换机-管壳式",
+                        "name": "热交换机-管壳式",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/rejiaohuanji-rou.svg",
+                        "_myIndex": "0-2-27"
+                    },
+                    {
+                        "width": 174,
+                        "height": 206,
+                        "classes": 1,
+                        "type": "水泵-立式-故障",
+                        "name": "水泵-立式-故障",
+                        "multiple": true,
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/shuibeng-ver-fault.svg",
+                        "url1": "./static/img/svg/nuantongkongtiao/shuixitongshebei/shuibeng-ver-off.svg",
+                        "_myIndex": "0-2-28"
+                    },
+                    {
+                        "width": 174,
+                        "height": 206,
+                        "classes": 1,
+                        "type": "水泵-立式-停止",
+                        "name": "水泵-立式-停止",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/shuibeng-ver-off.svg",
+                        "_myIndex": "0-2-29"
+                    },
+                    {
+                        "width": 174,
+                        "height": 206,
+                        "classes": 1,
+                        "type": "水泵-立式-运行",
+                        "name": "水泵-立式-运行",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/shuibeng-ver-on.svg",
+                        "_myIndex": "0-2-30"
+                    },
+                    {
+                        "width": 217,
+                        "height": 115,
+                        "classes": 1,
+                        "type": "水泵-卧式-故障",
+                        "name": "水泵-卧式-故障",
+                        "multiple": true,
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/shuibeng-hor-fault.svg",
+                        "url1": " ./static/img/svg/nuantongkongtiao/shuixitongshebei/shuibeng-hor-off.svg",
+                        "_myIndex": "0-2-31"
+                    },
+                    {
+                        "width": 217,
+                        "height": 115,
+                        "classes": 1,
+                        "type": "水泵-卧式-运行",
+                        "name": "水泵-卧式-运行",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/shuibeng-hor-on.svg",
+                        "_myIndex": "0-2-32"
+                    },
+                    {
+                        "width": 105,
+                        "height": 159,
+                        "classes": 1,
+                        "type": "水箱-25%",
+                        "name": "水箱-25%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/shuixiang-25.svg",
+                        "_myIndex": "0-2-33"
+                    },
+                    {
+                        "width": 105,
+                        "height": 159,
+                        "classes": 1,
+                        "type": "水箱-50%",
+                        "name": "水箱-50%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/shuixiang-50.svg",
+                        "_myIndex": "0-2-34"
+                    },
+                    {
+                        "width": 105,
+                        "height": 159,
+                        "classes": 1,
+                        "type": "水箱-75%",
+                        "name": "水箱-75%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/shuixiang-75.svg",
+                        "_myIndex": "0-2-35"
+                    },
+                    {
+                        "width": 105,
+                        "height": 159,
+                        "classes": 1,
+                        "type": "水箱-空",
+                        "name": "水箱-空",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/shuixiang-0.svg",
+                        "_myIndex": "0-2-36"
+                    },
+                    {
+                        "width": 105,
+                        "height": 159,
+                        "classes": 1,
+                        "type": "水箱-满",
+                        "name": "水箱-满",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/shuixiang-100.svg",
+                        "_myIndex": "0-2-37"
+                    },
+                    {
+                        "width": 261,
+                        "height": 135,
+                        "classes": 1,
+                        "type": "油罐-25%",
+                        "name": "油罐-25%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/youguan-25.svg",
+                        "_myIndex": "0-2-38"
+                    },
+                    {
+                        "width": 261,
+                        "height": 135,
+                        "classes": 1,
+                        "type": "油罐-50%",
+                        "name": "油罐-50%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/youguan-50.svg",
+                        "_myIndex": "0-2-39"
+                    },
+                    {
+                        "width": 261,
+                        "height": 135,
+                        "classes": 1,
+                        "type": "油罐-75%",
+                        "name": "油罐-75%",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/youguan-75.svg",
+                        "_myIndex": "0-2-40"
+                    },
+                    {
+                        "width": 261,
+                        "height": 135,
+                        "classes": 1,
+                        "type": "油罐-空",
+                        "name": "油罐-空",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/youguan-0.svg",
+                        "_myIndex": "0-2-41"
+                    },
+                    {
+                        "width": 261,
+                        "height": 135,
+                        "classes": 1,
+                        "type": "油罐-满",
+                        "name": "油罐-满",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongshebei/youguan-100.svg",
+                        "_myIndex": "0-2-42"
+                    }
+                ],
+                "_myIndex": "0-2"
+            },
+            {
+                "type": "水系统设备",
+                "name": "水系统设备",
+                "children": [
+                    {
+                        "width": 36,
+                        "height": 139,
+                        "classes": 1,
+                        "type": "灰色水管",
+                        "name": "灰色水管",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/awr-1-way.svg",
+                        "_myIndex": "0-3-0"
+                    },
+                    {
+                        "width": 26,
+                        "height": 126,
+                        "classes": 1,
+                        "type": "灰色水管垂直",
+                        "name": "灰色水管垂直",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/awr-2-way.svg",
+                        "_myIndex": "0-3-1"
+                    },
+                    {
+                        "width": 72,
+                        "height": 54,
+                        "classes": 1,
+                        "type": "灰色三开口",
+                        "name": "灰色三开口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/aws-3-way.svg",
+                        "_myIndex": "0-3-2"
+                    },
+                    {
+                        "width": 72,
+                        "height": 72,
+                        "classes": 1,
+                        "type": "灰色四开口",
+                        "name": "灰色四开口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/aws-4-way.svg",
+                        "_myIndex": "0-3-3"
+                    },
+                    {
+                        "width": 66,
+                        "height": 67,
+                        "classes": 1,
+                        "type": "灰色弯管",
+                        "name": "灰色弯管",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/aws-elbow.svg",
+                        "_myIndex": "0-3-4"
+                    },
+                    {
+                        "width": 36,
+                        "height": 139,
+                        "classes": 1,
+                        "type": "绿色水管",
+                        "name": "绿色水管",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/cwr-1-way.svg",
+                        "_myIndex": "0-3-5"
+                    },
+                    {
+                        "width": 26,
+                        "height": 126,
+                        "classes": 1,
+                        "type": "绿色水管垂直",
+                        "name": "绿色水管垂直",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/cwr-2-way.svg",
+                        "_myIndex": "0-3-6"
+                    },
+                    {
+                        "width": 72,
+                        "height": 54,
+                        "classes": 1,
+                        "type": "绿色三开口",
+                        "name": "绿色三开口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/cwr-3-way.svg",
+                        "_myIndex": "0-3-7"
+                    },
+                    {
+                        "width": 72,
+                        "height": 72,
+                        "classes": 1,
+                        "type": "绿色四开口",
+                        "name": "绿色四开口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/cwr-4-way.svg",
+                        "_myIndex": "0-3-8"
+                    },
+                    {
+                        "width": 66,
+                        "height": 67,
+                        "classes": 1,
+                        "type": "绿色弯管",
+                        "name": "绿色弯管",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/cwr-elbow.svg",
+                        "_myIndex": "0-3-9"
+                    },
+                    {
+                        "width": 36,
+                        "height": 139,
+                        "classes": 1,
+                        "type": "黄色水管",
+                        "name": "黄色水管",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/hws-1-way.svg",
+                        "_myIndex": "0-3-10"
+                    },
+                    {
+                        "width": 26,
+                        "height": 126,
+                        "classes": 1,
+                        "type": "黄色水管垂直",
+                        "name": "黄色水管垂直",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/hws-2-way.svg",
+                        "_myIndex": "0-3-11"
+                    },
+                    {
+                        "width": 72,
+                        "height": 54,
+                        "classes": 1,
+                        "type": "黄色三开口",
+                        "name": "黄色三开口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/hws-3-way.svg",
+                        "_myIndex": "0-3-12"
+                    },
+                    {
+                        "width": 72,
+                        "height": 72,
+                        "classes": 1,
+                        "type": "黄色四开口",
+                        "name": "黄色四开口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/hws-4-way.svg",
+                        "_myIndex": "0-3-13"
+                    },
+                    {
+                        "width": 66,
+                        "height": 67,
+                        "classes": 1,
+                        "type": "黄色弯管",
+                        "name": "黄色弯管",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/hws-elbow.svg",
+                        "_myIndex": "0-3-14"
+                    },
+                    {
+                        "width": 36,
+                        "height": 139,
+                        "classes": 1,
+                        "type": "蓝色水管",
+                        "name": "蓝色水管",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/lwr-1-way.svg",
+                        "_myIndex": "0-3-15"
+                    },
+                    {
+                        "width": 26,
+                        "height": 126,
+                        "classes": 1,
+                        "type": "蓝色水管垂直",
+                        "name": "蓝色水管垂直",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/lwr-2-way.svg",
+                        "_myIndex": "0-3-16"
+                    },
+                    {
+                        "width": 72,
+                        "height": 54,
+                        "classes": 1,
+                        "type": "蓝色三开口",
+                        "name": "蓝色三开口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/lwr-3-way.svg",
+                        "_myIndex": "0-3-17"
+                    },
+                    {
+                        "width": 72,
+                        "height": 72,
+                        "classes": 1,
+                        "type": "蓝色四开口",
+                        "name": "蓝色四开口",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/lwr-4-way.svg",
+                        "_myIndex": "0-3-18"
+                    },
+                    {
+                        "width": 66,
+                        "height": 67,
+                        "classes": 1,
+                        "type": "蓝色弯管",
+                        "name": "蓝色弯管",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/shuixitongguandao/lwr-5-way.svg",
+                        "_myIndex": "0-3-19"
+                    }
+                ],
+                "_myIndex": "0-3"
+            },
+            {
+                "type": "末端设备",
+                "name": "末端设备",
+                "children": [
+                    {
+                        "width": 85,
+                        "height": 294,
+                        "classes": 1,
+                        "type": "传感器",
+                        "name": "传感器",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/moduanshebei/chuanganqi.svg",
+                        "_myIndex": "0-4-0"
+                    },
+                    {
+                        "width": 238,
+                        "height": 124,
+                        "classes": 1,
+                        "type": "压差",
+                        "name": "压差",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/moduanshebei/yacha.svg",
+                        "_myIndex": "0-4-1"
+                    },
+                    {
+                        "width": 202,
+                        "height": 387,
+                        "classes": 1,
+                        "type": "电扶梯-右上",
+                        "name": "电扶梯-右上",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/moduanshebei/dianfutiyoushang.gif",
+                        "_myIndex": "0-4-2"
+                        
+                    },
+                    {
+                        "width": 202,
+                        "height": 387,
+                        "classes": 1,
+                        "type": "电扶梯-右下",
+                        "name": "电扶梯-右上",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/moduanshebei/dianfutiyouxia.gif",
+                        "_myIndex": "0-4-3"
+                        
+                    },
+                    {
+                        "width": 202,
+                        "height": 387,
+                        "classes": 1,
+                        "type": "电扶梯-静止",
+                        "name": "电扶梯-静止",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/moduanshebei/dianfutijingzhi.png",
+                        "_myIndex": "0-4-4"
+                        
+                    },
+                    {
+                      "width": 200,
+                      "height": 200,
+                      "classes": 1,
+                        "type": "多联机",
+                        "name": "多联机",
+                      "modifyColor": false,
+                      "multiple": true,
+                      "imUrl": "/static/img/svg/nuantongkongtiao/moduanshebei/duolianji-open.gif",
+                      "url1": " /static/img/svg/nuantongkongtiao/moduanshebei/duolianji-close.png",
+                      "_myIndex": "0-4-5"
+                    },
+                    {
+                      "width": 530,
+                      "height": 411,
+                      "classes": 1,
+                        "type": "风幕机",
+                        "name": "风幕机",
+                      "modifyColor": false,
+                      "multiple": true,
+                      "imUrl": " /static/img/svg/nuantongkongtiao/moduanshebei/fengmuji-open.gif",
+                      "url1": " /static/img/svg/nuantongkongtiao/moduanshebei/fengmuji-close.svg",
+                      "_myIndex": "0-4-6"
+                    }
+                ],
+                "_myIndex": "0-4"
+            },
+            {
+                "type": "阀门设备",
+                "name": "阀门设备",
+                "children": [
+                    {
+                        "width": 40,
+                        "height": 51,
+                        "classes": 1,
+                        "type": "电动阀门01",
+                        "name": "电动阀门01",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/famenshebei/1diandongfamen01.svg",
+                        "_myIndex": "0-5-0"
+                    },
+                    {
+                        "width": 40,
+                        "height": 51,
+                        "classes": 1,
+                        "type": "电动阀门02",
+                        "name": "电动阀门02",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/famenshebei/2diandongfamen02.svg",
+                        "_myIndex": "0-5-1"
+                    },
+                    {
+                        "width": 40,
+                        "height": 56,
+                        "classes": 1,
+                        "type": "发动机01",
+                        "name": "发动机01",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/famenshebei/3fadongfamen01.svg",
+                        "_myIndex": "0-5-2"
+                    },
+                    {
+                        "width": 40,
+                        "height": 56,
+                        "classes": 1,
+                        "type": "发动机02",
+                        "name": "发动机02",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/famenshebei/4fadongfamen02.svg",
+                        "_myIndex": "0-5-3"
+                    },
+                    {
+                        "width": 40,
+                        "height": 57,
+                        "classes": 1,
+                        "type": "阀门",
+                        "name": "阀门",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/famenshebei/5fdamen.svg",
+                        "_myIndex": "0-5-4"
+                    }
+                ],
+                "_myIndex": "0-5"
+            },
+            {
+                "type": "其他",
+                "name": "其他",
+                "children": [
+                    {
+                        "width": 256.8,
+                        "height": 206.1,
+                        "classes": 1,
+                        "type": "发电机故障",
+                        "name": "发电机故障",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/qita/fadianji-fault.svg",
+                        "_myIndex": "0-6-0"
+                    },
+                    {
+                        "width": 256.8,
+                        "height": 206.1,
+                        "classes": 1,
+                        "type": "发电机不运行",
+                        "name": "发电机不运行",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/qita/fadianji-off.svg",
+                        "_myIndex": "0-6-1"
+                    },
+                    {
+                        "width": 256.8,
+                        "height": 206.1,
+                        "classes": 1,
+                        "type": "发电机运行",
+                        "name": "发电机运行",
+                        "imUrl": "/static/img/svg/nuantongkongtiao/qita/fadianji-on.svg",
+                        "_myIndex": "0-6-2"
+                    },
+                    {
+                      "width": 50,
+                      "height": 23,
+                      "classes": 1,
+                      "type": "楼层",
+                      "name": "楼层",
+                      "modifyColor": false,
+                      "multiple": false,
+                      "imUrl": "/static/img/svg/nuantongkongtiao/qita/louceng.svg",
+                      "_myIndex": "0-6-3"
+                    },
+                    {
+                      "width": 100,
+                      "height": 140,
+                      "classes": 1,
+                      "type": "直梯",
+                      "name": "直梯",
+                      "modifyColor": false,
+                      "multiple": true,
+                      "isOpenClose":true,
+                      "imUrl": "./static/img/svg/nuantongkongtiao/qita/zhiti-open.gif",
+                      "url1": "./static/img/svg/nuantongkongtiao/qita/zhiti-close.gif",
+                      "_myIndex": "0-6-4"
+                    }
+                ],
+                "_myIndex": "0-6"
+            }
+        ],
+        "_myIndex": "0"
+    },
+    {
+        "type": "照明设备",
+        "classes": 1,
+        "name": "照明设备",
+        "children": [
+            {
+                "width": 60,
+                "height": 61,
+                "classes": 1,
+                "type": "筒灯1",
+                "name": "筒灯1",
+                "modifyColor": true,
+                "color": "#999",
+                "imUrl": "/static/img/svg/zhaomingshebei/tongdeng1.svg",
+                "_myIndex": "1-0"
+            },
+            {
+                "width": 60,
+                "height": 61,
+                "classes": 1,
+                "type": "筒灯2",
+                "name": "筒灯2",
+                "modifyColor": true,
+                "color": "#efa91b",
+                "imUrl": "/static/img/svg/zhaomingshebei/tongdeng2.svg",
+                "_myIndex": "1-1"
+            },
+            {
+                "width": 60,
+                "height": 45,
+                "classes": 1,
+                "type": "吸顶灯1",
+                "name": "吸顶灯1",
+                "imUrl": "/static/img/svg/zhaomingshebei/xidingdeng1.svg",
+                "_myIndex": "1-2"
+            },
+            {
+                "width": 60,
+                "height": 45,
+                "classes": 1,
+                "type": "吸顶灯2",
+                "name": "吸顶灯2",
+                "imUrl": "/static/img/svg/zhaomingshebei/xidingdeng2.svg",
+                "_myIndex": "1-3"
+            },
+            {
+                "width": 28.1,
+                "height": 48.3,
+                "classes": 1,
+                "type": "灯泡关",
+                "name": "灯泡关",
+                "imUrl": "/static/img/svg/zhaomingshebei/dengpao-off.svg",
+                "_myIndex": "1-4"
+            },
+            {
+                "width": 28.1,
+                "height": 48.3,
+                "classes": 1,
+                "type": "灯泡开",
+                "name": "灯泡开",
+                "imUrl": "/static/img/svg/zhaomingshebei/dengpao-on.svg",
+                "_myIndex": "1-5"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "classes": 1,
+                "type": "方灯关",
+                "name": "方灯关",
+                "imUrl": "/static/img/svg/zhaomingshebei/fangdeng-off.svg",
+                "_myIndex": "1-6"
+            },
+            {
+                "width": 80,
+                "height": 80,
+                "classes": 1,
+                "type": "方灯开",
+                "name": "方灯开",
+                "imUrl": "/static/img/svg/zhaomingshebei/fangdeng-on.svg",
+                "_myIndex": "1-7"
+            },
+            {
+                "width": 26,
+                "height": 51.9,
+                "classes": 1,
+                "type": "光源关",
+                "name": "光源关",
+                "imUrl": "/static/img/svg/zhaomingshebei/guangyuan-off.svg",
+                "_myIndex": "1-8"
+            },
+            {
+                "width": 26,
+                "height": 51.9,
+                "classes": 1,
+                "type": "光源开",
+                "name": "光源开",
+                "imUrl": "/static/img/svg/zhaomingshebei/guangyuan-on.svg",
+                "_myIndex": "1-9"
+            },
+            {
+                "width": 59.5,
+                "height": 19.2,
+                "classes": 1,
+                "type": "应急灯关",
+                "name": "应急灯关",
+                "imUrl": "/static/img/svg/zhaomingshebei/yingji-off.svg",
+                "_myIndex": "1-10"
+            },
+            {
+                "width": 59.5,
+                "height": 19.2,
+                "classes": 1,
+                "type": "应急灯开",
+                "name": "应急灯开",
+                "imUrl": "/static/img/svg/zhaomingshebei/yingji-on.svg",
+                "_myIndex": "1-11"
+            },
+            {
+                "width": 80,
+                "height": 79.8,
+                "classes": 1,
+                "type": "圆灯关",
+                "name": "圆灯关",
+                "imUrl": "/static/img/svg/zhaomingshebei/yuandeng-off.svg",
+                "_myIndex": "1-12"
+            },
+            {
+                "width": 300,
+                "height": 80,
+                "classes": 1,
+                "type": "长灯关",
+                "name": "长灯关",
+                "imUrl": "/static/img/svg/zhaomingshebei/zhangdeng-off.svg",
+                "_myIndex": "1-13"
+            },
+            {
+                "width": 300,
+                "height": 80,
+                "classes": 1,
+                "type": "长灯开",
+                "name": "长灯开",
+                "imUrl": "/static/img/svg/zhaomingshebei/zhangdeng-on.svg",
+                "_myIndex": "1-14"
+            }
+        ],
+        "_myIndex": "1"
+    },
+    {
+        "type": "环境传感",
+        "classes": 1,
+        "name": "环境传感",
+        "children": [
+            {
+                "width": 72.6,
+                "height": 56.1,
+                "classes": 1,
+                "type": "二氧化碳",
+                "name": "二氧化碳",
+                "modifyColor": true,
+                "color": "#fff",
+                "imUrl": "/static/img/svg/huanjingchuangan/co2.svg",
+                "_myIndex": "2-0"
+            },
+            {
+                "width": 56.5,
+                "height": 56.5,
+                "classes": 1,
+                "type": "光照度",
+                "name": "光照度",
+                "modifyColor": true,
+                "color": "#fff",
+                "imUrl": "/static/img/svg/huanjingchuangan/guangzhao.svg",
+                "_myIndex": "2-1"
+            },
+            {
+                "width": 64.9,
+                "height": 51,
+                "classes": 1,
+                "type": "甲醛",
+                "name": "甲醛",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/huanjingchuangan/jiaquan.svg",
+                "_myIndex": "2-2"
+            },
+            {
+                "width": 34.2,
+                "height": 55.3,
+                "classes": 1,
+                "type": "门磁",
+                "name": "门磁",
+                "modifyColor": true,
+                "color": "#fff",
+                "imUrl": "/static/img/svg/huanjingchuangan/menci.svg",
+                "_myIndex": "2-3"
+            },
+            {
+                "width": 54.1,
+                "height": 47.4,
+                "classes": 1,
+                "type": "PM2.5",
+                "name": "PM2.5",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/huanjingchuangan/pm2.5.svg",
+                "_myIndex": "2-4"
+            },
+            {
+                "width": 49.2,
+                "height": 47.4,
+                "classes": 1,
+                "type": "PM10",
+                "name": "PM10",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/huanjingchuangan/pm10.svg",
+                "_myIndex": "2-5"
+            },
+            {
+                "width": 61.7,
+                "height": 80.5,
+                "classes": 1,
+                "type": "人感",
+                "name": "人感",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/huanjingchuangan/rengan.svg",
+                "_myIndex": "2-6"
+            },
+            {
+                "width": 46,
+                "height": 63.8,
+                "classes": 1,
+                "type": "湿度",
+                "name": "湿度",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/huanjingchuangan/shidu.svg",
+                "_myIndex": "2-7"
+            },
+            {
+                "width": 59,
+                "height": 59,
+                "classes": 1,
+                "type": "VOC",
+                "name": "VOC",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/huanjingchuangan/voc.svg",
+                "_myIndex": "2-8"
+            },
+            {
+                "width": 30,
+                "height": 76.5,
+                "classes": 1,
+                "type": "温度",
+                "name": "温度",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/huanjingchuangan/wendu.svg",
+                "_myIndex": "2-9"
+            },
+            {
+                "width": 53.2,
+                "height": 59.1,
+                "classes": 1,
+                "type": "温湿度",
+                "name": "温湿度",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/huanjingchuangan/wenshidu.svg",
+                "_myIndex": "2-10"
+            },
+            {
+                "width": 53.2,
+                "height": 59.1,
+                "classes": 1,
+                "type": "新风",
+                "name": "新风",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/huanjingchuangan/xinfeng.svg",
+                "_myIndex": "2-11"
+            }
+        ],
+        "_myIndex": "2"
+    },
+    {
+        "type": "电力电子",
+        "classes": 1,
+        "name": "电力电子",
+        "children": [
+            {
+                "width": 62,
+                "height": 18,
+                "classes": 1,
+                "type": "电流或直流电源",
+                "name": "电流或直流电源",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/1dianliu.svg",
+                "_myIndex": "3-0"
+            },
+            {
+                "width": 62,
+                "height": 18,
+                "classes": 1,
+                "type": "可变直流电源",
+                "name": "可变直流电源",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/2kebian.svg",
+                "_myIndex": "3-1"
+            },
+            {
+                "width": 26,
+                "height": 26,
+                "classes": 1,
+                "type": "交流电源",
+                "name": "交流电源",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/3jiaoliudianyuan.svg",
+                "_myIndex": "3-2"
+            },
+            {
+                "width": 72,
+                "height": 18,
+                "classes": 1,
+                "type": "电阻器",
+                "name": "电阻器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/4dianzu.svg",
+                "_myIndex": "3-3"
+            },
+            {
+                "width": 55,
+                "height": 21,
+                "classes": 1,
+                "type": "电容器",
+                "name": "电容器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/5dianrong.svg",
+                "_myIndex": "3-4"
+            },
+            {
+                "width": 26,
+                "height": 26,
+                "classes": 1,
+                "type": "LAMP",
+                "name": "LAMP",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/6lamp.svg",
+                "_myIndex": "3-5"
+            },
+            {
+                "width": 26,
+                "height": 26,
+                "classes": 1,
+                "type": "发动机",
+                "name": "发动机",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/7fadongji.svg",
+                "_myIndex": "3-6"
+            },
+            {
+                "width": 26,
+                "height": 26,
+                "classes": 1,
+                "type": "电表",
+                "name": "电表",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/8dianbiao.svg",
+                "_myIndex": "3-7"
+            },
+            {
+                "width": 26,
+                "height": 26,
+                "classes": 1,
+                "type": "电源",
+                "name": "电源",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/9dianyuan.svg",
+                "_myIndex": "3-8"
+            },
+            {
+                "width": 16,
+                "height": 26,
+                "classes": 1,
+                "type": "电压表",
+                "name": "电压表",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/10dianya.svg",
+                "_myIndex": "3-9"
+            },
+            {
+                "width": 31,
+                "height": 34,
+                "classes": 1,
+                "type": "接地",
+                "name": "接地",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/11jiedi.svg",
+                "_myIndex": "3-10"
+            },
+            {
+                "width": 68,
+                "height": 10,
+                "classes": 1,
+                "type": "保险丝",
+                "name": "保险丝",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/12baoxiansi.svg",
+                "_myIndex": "3-11"
+            },
+            {
+                "width": 18,
+                "height": 57,
+                "classes": 1,
+                "type": "T接线",
+                "name": "T接线",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/13Tjiexian.svg",
+                "_myIndex": "3-12"
+            },
+            {
+                "width": 18,
+                "height": 57,
+                "classes": 1,
+                "type": "避雷针1",
+                "name": "避雷针1",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/14bileizhen01.svg",
+                "_myIndex": "3-13"
+            },
+            {
+                "width": 18,
+                "height": 57,
+                "classes": 1,
+                "type": "避雷针2",
+                "name": "避雷针2",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/15bileizhen02.svg",
+                "_myIndex": "3-14"
+            },
+            {
+                "width": 9,
+                "height": 58,
+                "classes": 1,
+                "type": "放电间隙",
+                "name": "放电间隙",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/16fangdianjianxi.svg",
+                "_myIndex": "3-15"
+            },
+            {
+                "width": 18,
+                "height": 57,
+                "classes": 1,
+                "type": "高压熔断器",
+                "name": "高压熔断器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/17gaoyarongduanqi.svg",
+                "_myIndex": "3-16"
+            },
+            {
+                "width": 26,
+                "height": 46,
+                "classes": 1,
+                "type": "双绕组变压器1",
+                "name": "双绕组变压器1",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/18liangbianyaqi01.svg",
+                "_myIndex": "3-17"
+            },
+            {
+                "width": 26,
+                "height": 46,
+                "classes": 1,
+                "type": "双绕组变压器2",
+                "name": "双绕组变压器2",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/18liangbianyaqi02.svg",
+                "_myIndex": "3-18"
+            },
+            {
+                "width": 26,
+                "height": 46,
+                "classes": 1,
+                "type": "双绕组变压器3",
+                "name": "双绕组变压器3",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/20liangbianyaqi03.svg",
+                "_myIndex": "3-19"
+            },
+            {
+                "width": 27,
+                "height": 46,
+                "classes": 1,
+                "type": "双绕组变压器4",
+                "name": "双绕组变压器4",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/21liangbianyaqi04.svg",
+                "_myIndex": "3-20"
+            },
+            {
+                "width": 35,
+                "height": 46,
+                "classes": 1,
+                "type": "二卷变",
+                "name": "二卷变",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/22erjuanbian.svg",
+                "_myIndex": "3-21"
+            },
+            {
+                "width": 47,
+                "height": 46,
+                "classes": 1,
+                "type": "三卷变",
+                "name": "三卷变",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/23sanjuanbian.svg",
+                "_myIndex": "3-22"
+            },
+            {
+                "width": 47,
+                "height": 26,
+                "classes": 1,
+                "type": "传感器1",
+                "name": "传感器1",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/24chuanganqi01.svg",
+                "_myIndex": "3-23"
+            },
+            {
+                "width": 43,
+                "height": 55,
+                "classes": 1,
+                "type": "传感器2",
+                "name": "传感器2",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/25chuanganqi02.svg",
+                "_myIndex": "3-24"
+            },
+            {
+                "width": 40,
+                "height": 35,
+                "classes": 1,
+                "type": "可变电阻",
+                "name": "可变电阻",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/26kebiandianzu.svg",
+                "_myIndex": "3-25"
+            },
+            {
+                "width": 38,
+                "height": 33,
+                "classes": 1,
+                "type": "预设电阻器",
+                "name": "预设电阻器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/27yushedianzu.svg",
+                "_myIndex": "3-26"
+            },
+            {
+                "width": 37,
+                "height": 18,
+                "classes": 1,
+                "type": "电阻",
+                "name": "电阻",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/28dianzu.svg",
+                "_myIndex": "3-27"
+            },
+            {
+                "width": 37,
+                "height": 34,
+                "classes": 1,
+                "modifyColor": true,
+                "type": "电阻计电阻器",
+                "name": "电阻计电阻器",
+                "imUrl": "/static/img/svg/dianlidianqi/29dianweijidianzu.svg",
+                "_myIndex": "3-28"
+            },
+            {
+                "width": 37,
+                "height": 31,
+                "classes": 1,
+                "modifyColor": true,
+                "type": "磁动电阻",
+                "name": "磁动电阻",
+                "imUrl": "/static/img/svg/dianlidianqi/30cidongdianzu.svg",
+                "_myIndex": "3-29"
+            },
+            {
+                "width": 26,
+                "height": 60,
+                "classes": 1,
+                "type": "电源变压器",
+                "name": "电源变压器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/31dianyuanbianyaqi.svg",
+                "_myIndex": "3-30"
+            },
+            {
+                "width": 26,
+                "height": 60,
+                "classes": 1,
+                "type": "抽压电压互感器",
+                "name": "抽压电压互感器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/32chouyadianya.svg",
+                "_myIndex": "3-31"
+            },
+            {
+                "width": 26,
+                "height": 60,
+                "classes": 1,
+                "type": "电压互感器1",
+                "name": "电压互感器1",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/33dianyahuganqi01.svg",
+                "_myIndex": "3-32"
+            },
+            {
+                "width": 43,
+                "height": 51,
+                "classes": 1,
+                "type": "电压互感器2",
+                "name": "电压互感器2",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/34dianyahuganqi02.svg",
+                "_myIndex": "3-33"
+            },
+            {
+                "width": 43,
+                "height": 60,
+                "classes": 1,
+                "type": "电压互感器3",
+                "name": "电压互感器3",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/35dianyahuganqi03.svg",
+                "_myIndex": "3-34"
+            },
+            {
+                "width": 102,
+                "height": 56,
+                "classes": 1,
+                "type": "电容式电压互感器",
+                "name": "电容式电压互感器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/36dianrongdianyahuganqi.svg",
+                "_myIndex": "3-35"
+            },
+            {
+                "width": 47,
+                "height": 23,
+                "classes": 1,
+                "type": "二极管",
+                "name": "二极管",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/37erjiguan.svg",
+                "_myIndex": "3-36"
+            },
+            {
+                "width": 36,
+                "height": 41,
+                "classes": 1,
+                "type": "晶体管",
+                "name": "晶体管",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/38jingtiguan.svg",
+                "_myIndex": "3-37"
+            },
+            {
+                "width": 32,
+                "height": 51,
+                "classes": 1,
+                "type": "阻波器",
+                "name": "阻波器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/39zuboqi.svg",
+                "_myIndex": "3-38"
+            },
+            {
+                "width": 64,
+                "height": 29,
+                "classes": 1,
+                "type": "衰减器",
+                "name": "衰减器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/40shuaijianqi.svg",
+                "_myIndex": "3-39"
+            },
+            {
+                "width": 42,
+                "height": 52,
+                "classes": 1,
+                "type": "电流互感器",
+                "name": "电流互感器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/41dianliuhuganqi.svg",
+                "_myIndex": "3-40"
+            },
+            {
+                "width": 26,
+                "height": 52,
+                "classes": 1,
+                "type": "电抗器",
+                "name": "电抗器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/42diankangqi.svg",
+                "_myIndex": "3-41"
+            },
+            {
+                "width": 26,
+                "height": 56,
+                "classes": 1,
+                "type": "変联电抗器",
+                "name": "変联电抗器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/43binglianduigangqi.svg",
+                "_myIndex": "3-42"
+            },
+            {
+                "width": 32,
+                "height": 42,
+                "classes": 1,
+                "type": "分割电抗器",
+                "name": "分割电抗器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/44fengeduikangqi.svg",
+                "_myIndex": "3-43"
+            },
+            {
+                "width": 26,
+                "height": 43,
+                "classes": 1,
+                "type": "站用变",
+                "name": "站用变",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/45zhanyongbian.svg",
+                "_myIndex": "3-44"
+            },
+            {
+                "width": 28,
+                "height": 55,
+                "classes": 1,
+                "type": "消弧线圈",
+                "name": "消弧线圈",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/46xiaohuxianquan.svg",
+                "_myIndex": "3-45"
+            },
+            {
+                "width": 18,
+                "height": 40,
+                "classes": 1,
+                "type": "手车刀闸",
+                "name": "手车刀闸",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/47shouchedaozha.svg",
+                "_myIndex": "3-46"
+            },
+            {
+                "width": 34,
+                "height": 25,
+                "classes": 1,
+                "type": "电压电感器",
+                "name": "电压电感器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/48dianyadianganqi.svg",
+                "_myIndex": "3-47"
+            },
+            {
+                "width": 10,
+                "height": 38,
+                "classes": 1,
+                "type": "负荷",
+                "name": "负荷",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/49fuhe.svg",
+                "_myIndex": "3-48"
+            },
+            {
+                "width": 25,
+                "height": 45,
+                "classes": 1,
+                "type": "接地刀闸链接",
+                "name": "接地刀闸链接",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/50jiedidaozhalianjie.svg",
+                "_myIndex": "3-49"
+            },
+            {
+                "width": 25,
+                "height": 49,
+                "classes": 1,
+                "type": "接地刀闸断开",
+                "name": "接地刀闸断开",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/51jiedidaozhaduankai.svg",
+                "_myIndex": "3-50"
+            },
+            {
+                "width": 10,
+                "height": 54,
+                "classes": 1,
+                "type": "刀闸开关闭合",
+                "name": "刀闸开关闭合",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/55daozhanbihe.svg",
+                "_myIndex": "3-51"
+            },
+            {
+                "width": 14,
+                "height": 54,
+                "classes": 1,
+                "type": "刀闸开关断开",
+                "name": "刀闸开关断开",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/56daozhanduankai.svg",
+                "_myIndex": "3-52"
+            },
+            {
+                "width": 15,
+                "height": 56,
+                "classes": 1,
+                "type": "断路器",
+                "name": "断路器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/57duanluqi.svg",
+                "_myIndex": "3-53"
+            },
+            {
+                "width": 15,
+                "height": 66,
+                "classes": 1,
+                "type": "断路器开关",
+                "name": "断路器开关",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/58duanluqikaiguan.svg",
+                "_myIndex": "3-54"
+            },
+            {
+                "width": 51,
+                "height": 79,
+                "classes": 1,
+                "type": "电流互感器",
+                "name": "电流互感器",
+                "modifyColor": true,
+                "imUrl": "./static/img/svg/dianlidianqi/59dianliuhuganqi.svg",
+                "_myIndex": "3-55"
+            },
+            {
+                "width": 23,
+                "height": 79,
+                "classes": 1,
+                "type": "电容补偿器",
+                "name": "电容补偿器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/60dianrongbuchangqi.svg",
+                "_myIndex": "3-56"
+            },
+            {
+                "width": 38,
+                "height": 34,
+                "classes": 1,
+                "type": "预设电位计",
+                "name": "预设电位计",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/61yushedianweiji.svg",
+                "_myIndex": "3-57"
+            },
+            {
+                "width": 67,
+                "height": 49,
+                "classes": 1,
+                "type": "三联开关",
+                "name": "三联开关",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/62sanliankaiguan.svg",
+                "_myIndex": "3-58"
+            },
+            {
+                "width": 61,
+                "height": 26,
+                "classes": 1,
+                "type": "引线组",
+                "name": "引线组",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/64yinxianzu.svg",
+                "_myIndex": "3-59"
+            },
+            {
+                "width": 16,
+                "height": 60,
+                "classes": 1,
+                "type": "熔断开关1",
+                "name": "熔断开关1",
+                "modifyColor": true,
+                "imUrl": "./static/img/svg/dianlidianqi/65rongduankaiguan01.svg",
+                "_myIndex": "3-60"
+            },
+            {
+                "width": 25,
+                "height": 60,
+                "classes": 1,
+                "type": "熔断开关2",
+                "name": "熔断开关2",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/66rongduankaiguan02.svg",
+                "_myIndex": "3-61"
+            },
+            {
+                "width": 18,
+                "height": 57,
+                "classes": 1,
+                "type": "开关",
+                "name": "开关",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/67kaiguan.svg",
+                "_myIndex": "3-62"
+            },
+            {
+                "width": 25,
+                "height": 57,
+                "classes": 1,
+                "type": "静止无功补偿",
+                "name": "静止无功补偿",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/68jingzhiwugongbuc.svg",
+                "_myIndex": "3-63"
+            },
+            {
+                "width": 46,
+                "height": 83,
+                "classes": 1,
+                "type": "带单触头高压跌落式熔断器的手车变压",
+                "name": "带单触头高压跌落式熔断器的手车变压",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/69shouchebianya.svg",
+                "_myIndex": "3-64"
+            },
+            {
+                "width": 56,
+                "height": 61,
+                "classes": 1,
+                "type": "带有载调压两圈自耦变压器",
+                "name": "带有载调压两圈自耦变压器",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/70zierbianyaqi.svg",
+                "_myIndex": "3-65"
+            },
+            {
+                "width": 15,
+                "height": 74,
+                "classes": 1,
+                "type": "电气分支",
+                "name": "电气分支",
+                "modifyColor": true,
+                "imUrl": "/static/img/svg/dianlidianqi/71dianqifenzhi.svg",
+                "_myIndex": "3-66"
+            },
+            {
+                "width": 20,
+                "height": 2,
+                "classes": 1,
+                "type": "电线",
+                "name": "电线",
+                "modifyColor": true,
+                "imUrl": "./static/img/svg/dianlidianqi/72dianxian.svg",
+                "_myIndex": "3-67"
+            },
+            {
+                "width": 40,
+                "height": 40,
+                "classes": 1,
+                "type": "指示灯1",
+                "name": "指示灯1",
+                "imUrl": "/static/img/svg/dianlidianqi/zhishifdeng01.svg",
+                "_myIndex": "3-68"
+            },
+            {
+                "width": 40,
+                "height": 40,
+                "classes": 1,
+                "type": "指示灯2",
+                "name": "指示灯2",
+                "imUrl": "/static/img/svg/dianlidianqi/zhishifdeng02.svg",
+                "_myIndex": "3-69"
+            },
+            {
+                "width": 40,
+                "height": 40,
+                "classes": 1,
+                "type": "指示灯3",
+                "name": "指示灯3",
+                "imUrl": "/static/img/svg/dianlidianqi/zhishifdeng03.svg",
+                "_myIndex": "3-70"
+            },
+            {
+                "width": 40,
+                "height": 40,
+                "classes": 1,
+                "type": "指示灯4",
+                "name": "指示灯4",
+                "imUrl": "/static/img/svg/dianlidianqi/zhishifdeng04.svg",
+                "_myIndex": "3-71"
+            },
+            {
+                "width": 140,
+                "height": 140,
+                "classes": 1,
+                "type": "插座开",
+                "name": "插座开",
+                "imUrl": "/static/img/svg/dianlidianqi/chazuokai.svg",
+                "_myIndex": "3-72"
+            },
+            {
+                "width": 140,
+                "height": 140,
+                "classes": 1,
+                "type": "插座关",
+                "name": "插座关",
+                "imUrl": "/static/img/svg/dianlidianqi/chazuoguan.svg",
+                "_myIndex": "3-70"
+            }
+        ],
+        "_myIndex": "3"
+    },
+    {
+        "type": "符号系列",
+        "classes": 1,
+        "name": "符号系列",
+        "children": [
+            {
+                "width": 95.4,
+                "height": 50,
+                "classes": 1,
+                "type": "箭头一",
+                "name": "箭头一",
+                "imUrl": "/static/img/svg/fuhao/jiantou1.svg",
+                "_myIndex": "4-0"
+            },
+            {
+                "width": 61.8,
+                "height": 70,
+                "classes": 1,
+                "type": "箭头三",
+                "name": "箭头三",
+                "imUrl": "/static/img/svg/fuhao/jiantou3.svg",
+                "_myIndex": "4-1"
+            },
+            {
+                "width": 56,
+                "height": 52,
+                "classes": 1,
+                "type": "箭头四",
+                "name": "箭头四",
+                "imUrl": "/static/img/svg/fuhao/jiantou4.svg",
+                "_myIndex": "4-2"
+            }
+        ],
+        "_myIndex": "4"
+    },
+    {
+        "type": "其他系列",
+        "classes": 1,
+        "name": "其他系列",
+        "children": [
+            {
+                "width": 114,
+                "height": 31,
+                "classes": 1,
+                "type": "按键一",
+                "name": "按键一",
+                "modifyColor": true,
+                "color": "#33a569",
+                "imUrl": "/static/img/svg/qita/anjian1.svg",
+                "_myIndex": "5-0"
+            },
+            {
+                "width": 60,
+                "height": 60,
+                "classes": 1,
+                "type": "按键二",
+                "name": "按键二",
+                "modifyColor": true,
+                "color": "#3573c1",
+                "imUrl": "/static/img/svg/qita/anjian2.svg",
+                "_myIndex": "5-1"
+            },
+            {
+                "width": 90.1,
+                "height": 112.1,
+                "classes": 1,
+                "type": "报警",
+                "name": "报警",
+                "imUrl": "/static/img/svg/qita/baojing.svg",
+                "_myIndex": "5-2"
+            },
+            {
+                "width": 248.6,
+                "height": 220.8,
+                "classes": 1,
+                "type": "建筑一",
+                "name": "建筑一",
+                "imUrl": "/static/img/svg/qita/jianzhu1.svg",
+                "_myIndex": "5-3"
+            },
+            {
+                "width": 155.2,
+                "height": 349.7,
+                "classes": 1,
+                "type": "建筑二",
+                "name": "建筑二",
+                "imUrl": "/static/img/svg/qita/jianzhu2.svg",
+                "_myIndex": "5-4"
+            },
+            {
+                "width": 248.6,
+                "height": 220.8,
+                "classes": 1,
+                "type": "建筑三",
+                "name": "建筑三",
+                "imUrl": "/static/img/svg/qita/jianzhu3.svg",
+                "_myIndex": "5-5"
+            },
+            {
+                "width": 220,
+                "height": 228,
+                "classes": 1,
+                "type": "建筑四",
+                "name": "建筑四",
+                "imUrl": "/static/img/svg/qita/jianzhu4.svg",
+                "_myIndex": "5-6"
+            },
+            {
+                "width": 38.1,
+                "height": 80,
+                "classes": 1,
+                "type": "建筑五",
+                "name": "建筑五",
+                "imUrl": "/static/img/svg/qita/jianzhu5.svg",
+                "_myIndex": "5-7"
+            },
+            {
+                "width": 186.2,
+                "height": 79.9,
+                "classes": 1,
+                "type": "交通一",
+                "name": "交通一",
+                "imUrl": "/static/img/svg/qita/jiaotong1.svg",
+                "_myIndex": "5-8"
+            },
+            {
+                "width": 388,
+                "height": 156.5,
+                "classes": 1,
+                "type": "交通二",
+                "name": "交通二",
+                "imUrl": "/static/img/svg/qita/jiaotong2.svg",
+                "_myIndex": "5-9"
+            },
+            {
+                "width": 370.1,
+                "height": 292,
+                "classes": 1,
+                "type": "交通三",
+                "name": "交通三",
+                "imUrl": "/static/img/svg/qita/jiaotong3.svg",
+                "_myIndex": "5-10"
+            },
+            {
+                "width": 80,
+                "height": 57.5,
+                "classes": 1,
+                "type": "气泡一",
+                "name": "气泡一",
+                "modifyColor": true,
+                "color": "#3573c1",
+                "imUrl": "/static/img/svg/qita/qipao1.svg",
+                "_myIndex": "5-11"
+            },
+            {
+                "width": 80,
+                "height": 67.9,
+                "classes": 1,
+                "type": "气泡二",
+                "name": "气泡二",
+                "modifyColor": true,
+                "color": "#b2ddff",
+                "imUrl": "/static/img/svg/qita/qipao2.svg",
+                "_myIndex": "5-12"
+            },
+            {
+                "width": 80,
+                "height": 58.7,
+                "classes": 1,
+                "type": "气泡三",
+                "name": "气泡三",
+                "modifyColor": true,
+                "color": "#e0cb9a",
+                "imUrl": "/static/img/svg/qita/qipao3.svg",
+                "_myIndex": "5-13"
+            },
+            {
+                "width": 80,
+                "height": 66,
+                "classes": 1,
+                "type": "气泡四",
+                "name": "气泡四",
+                "modifyColor": true,
+                "color": "#adb2a1",
+                "imUrl": "/static/img/svg/qita/jiaotong1.svg",
+                "_myIndex": "5-14"
+            },
+            {
+                "width": 121.5,
+                "height": 50,
+                "classes": 1,
+                "type": "信息框一",
+                "name": "信息框一",
+                "modifyColor": true,
+                "color": "#f4b60b",
+                "imUrl": "/static/img/svg/qita/xinxikuang1.svg",
+                "_myIndex": "5-15"
+            },
+            {
+                "width": 80,
+                "height": 70.1,
+                "classes": 1,
+                "type": "信息框二",
+                "name": "信息框二",
+                "modifyColor": true,
+                "color": "#3573c1",
+                "imUrl": "/static/img/svg/qita/xinxikuang2.svg",
+                "_myIndex": "5-16"
+            }
+        ],
+        "_myIndex": "5"
+    }
+]

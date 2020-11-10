@@ -1,0 +1,173 @@
+ul,li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    cursor: pointer;
+}
+.comp{
+    height: calc(100%);
+    width: calc(100%);
+}
+body{
+    font-family: microsoft yahei;
+}
+input,select,textarea{
+    outline: none;
+}
+iframe{
+    margin: auto;
+    padding: 0;
+    height: calc(100%);
+    width: calc(100%);
+    border-width: 0;
+}
+.markView{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+}
+.moving{
+    position: absolute;
+    z-index: 1;
+    &.imgDiv {
+        color:white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        cursor: move;
+        width: 100px;
+        height: 100px;
+        box-sizing: border-box;
+        margin: 8px 0;
+        box-sizing: border-box;
+        .iconfont {
+          cursor: move;
+          font-size: 46px;
+        }
+      }
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    &.rowstart{
+        justify-content: flex-start;
+    }
+    &.rowend{
+        justify-content: flex-end;
+    }
+    &.rowspace{
+        justify-content: space-evenly;
+    }
+    &.rowAlignCenter{
+        align-items: baseline;
+    }
+}
+.marginTop10{
+    margin-top: 10px;
+}
+.wrapper{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+// 弹框边距
+.el-dialog__body {
+  padding: 20px !important;
+}
+
+input[type='number']::-webkit-outer-spin-button,
+input[type='number']::-webkit-inner-spin-button{
+    -webkit-appearance: none !important;
+    margin: 0;
+}
+
+.themeWhite{
+    .search{
+        .block{
+            margin-right: 20px;
+            span{
+                margin-right: 20px;
+            }
+             /deep/  .el-input{
+                  .el-input__inner{
+                      color: inherit;
+                      font-family: inherit;
+                      width: 230px;
+                      height: 32px;
+                      line-height: 32px;
+                      background: transparent;
+                      border: 1px solid #ccc;
+                  }
+          }
+          /deep/  .el-range-editor.el-input__inner{
+                  width: 380px;
+                  height: 32px;
+                  background: transparent;
+                  border: 1px solid #ccc;
+                  .el-range-separator,.el-input__icon{
+                      color: #C0C4CC;
+                          line-height: 24px;
+                  }
+                  .el-range-input{
+                      color: inherit;
+                      font-family: inherit;
+                      // width: 230px;
+                      height: 32px;
+                      line-height: 32px;
+                      background: transparent;
+                      
+                  }
+          }
+        }
+    }
+}
+.themeBlack{
+    .search{
+        .block{
+            margin-right: 20px;
+            span{
+                margin-right: 20px;
+            }
+             /deep/  .el-input{
+                  .el-input__inner{
+                      color: inherit;
+                      font-family: inherit;
+                      width: 230px;
+                      height: 32px;
+                      line-height: 32px;
+                      background: transparent;
+                      border: 1px solid #404753;
+                  }
+          }
+          /deep/  .el-range-editor.el-input__inner{
+                  width: 380px;
+                  height: 32px;
+                  background: transparent;
+                  border: 1px solid #404753;
+                  .el-range-separator,.el-input__icon{
+                      color: #C0C4CC;
+                          line-height: 24px;
+                  }
+                  .el-range-input{
+                      color: inherit;
+                      font-family: inherit;
+                      // width: 230px;
+                      height: 32px;
+                      line-height: 32px;
+                      background: transparent;
+                      
+                  }
+          }
+        }
+    }
+}
+.el-icon-circle-close{
+    font-size: 17px!important;
+    color: #1e88e5!important;
+}

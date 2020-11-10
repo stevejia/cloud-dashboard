@@ -1,0 +1,82 @@
+{
+    "stylesConfig": {
+        "theme": {
+            "主题切换": {
+                "type": "select",
+                "label": [
+                  {
+                    "label": "主题一",
+                    "value": "black"
+                  },
+                  {
+                    "label": "主题二",
+                    "value": "white"
+                  }
+                ],
+                "value": "black"
+              },
+              "线条": {
+                "type": "line"
+              },
+              "页面大小": {
+                "type": "widthHeight",
+                "label": ["宽", "高"],
+                "tisi": "*非数字则无效",
+                "checked": false,
+                "value": [1920, 1080]
+              },
+              "线条1": {
+                "type": "line"
+              },
+      
+              "页面选项": {
+                "type": "select",
+                "label": [
+                  {
+                    "label": "固定尺寸",
+                    "value": "0"
+                  },
+                  {
+                    "label": "适应宽度",
+                    "value": "1"
+                  },
+                  {
+                    "label": "适应全部",
+                    "value": "2"
+                  },
+                  {
+                    "label": "铺满尺寸",
+                    "value": "3"
+                  }
+                ],
+                "value": "0"
+              }
+        },
+        "topConfig": {
+            "white":{},
+            "black":{},
+            "config":{}
+        },
+        "leftConfig":{
+            "config":{},
+            "white":{},
+            "black":{}
+        },
+        "centerConfig":{
+            "config":{},
+            "white":{},
+            "black":{}
+        },
+        "userConfig":{
+            "config":{}
+        }
+        
+    },
+    "routeConfig": {
+        "currentSelectRoute": "",
+        "currentSelectChildrenRoute": null,
+        "routes": [],
+        "pages": []
+    },
+    "centerConfigs": {}
+}

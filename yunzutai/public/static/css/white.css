@@ -1,0 +1,34 @@
+.themeWhite{
+    background-color: white;
+}
+.themeWhite .pagesDiv{
+    border-bottom: 1px solid #e7e7e7
+}
+.themeWhite .routesDiv{
+    border-bottom:0px!important;
+}
+.themeWhite .routesDiv:hover {}
+
+.themeWhite .themeColor{
+    color: #3573c1;
+}
+.themeBlack .colorWhiteBlack{
+    color: black;
+}
+.themeBlack .backColor{
+    background: white;
+}
+.themeWhite .dateClass .el-input__inner {
+    background: transparent!important;
+    border: 1px solid #ccc!important ;
+    font-family: inherit!important;
+    color: inherit!important;
+  }
+  .el-table__row.hover-row td{
+    background-color:#f5f7fa!important;
+}
+.themeWhite .table-pagination .btn-next,.themeWhite .table-pagination .btn-prev,.themeWhite .table-pagination .el-pagination__jump,.themeWhite .table-pagination .el-pagination__total
+,.themeWhite .table-pagination input{
+      color: #606266!important;
+      background: transparent!important;
+}

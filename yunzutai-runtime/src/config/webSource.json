@@ -1,0 +1,13 @@
+[
+    
+    {
+        "id": "61f06766c7fb432e9b27261b80999726",
+        "name": "新浪",
+        "type": "single",
+        "site": {
+            "name": "新浪",
+            "img": "./static/img/wangzhi/xinlang.png",
+            "url": "https://www.sina.com.cn/"
+        }
+    }
+]

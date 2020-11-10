@@ -1,0 +1,39 @@
+---
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: tethys_ui
+  namespace: $NAMESPACE
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: tethys_ui
+  template:
+    metadata:
+      labels:
+        app: tethys_ui
+    spec:
+      containers:
+      - name: tethys_ui
+        imagePullPolicy: Always
+        image: $REGISTRY/$PROJECT/$IMAGENAME:$TAGS
+        ports:
+        - containerPort: 80
+          name: http
+      restartPolicy: Always
+      imagePullSecrets:
+      - name: cc-harbor06
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: tethys_ui
+  namespace: $NAMESPACE
+spec:
+  type: ClusterIP
+  selector:
+    app: tethys_ui
+  ports:
+  - port: 80
+    name: http

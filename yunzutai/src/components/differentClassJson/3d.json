@@ -1,0 +1,10 @@
+[
+  {
+    "width": 800,
+    "height": 800,
+    "type": "cube",
+    "classes": 7,
+    "name": "正方体",
+    "imUrl": "iconwenben"
+  }
+]

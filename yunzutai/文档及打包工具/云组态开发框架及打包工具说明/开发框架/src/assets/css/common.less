@@ -1,0 +1,46 @@
+ul,li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    cursor: pointer;
+}
+.comp{
+    height: calc(100%);
+    width: calc(100%);
+}
+body{
+    background: black;
+    font-family: microsoft yahei;
+}
+input,select,textarea{
+    outline: none;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    &.rowend{
+        justify-content: flex-end;
+    }
+}
+.marginTop10{
+    margin-top: 10px;
+}
+.shine {
+    animation: opacity-change 1s ease-in-out infinite;
+    -webkit-animation: opacity-change 1s ease-in-out infinite;
+    -moz-animation: opacity-change 1s ease-in-out infinite;
+    -o-animation: opacity-change 1s ease-in-out infinite;
+}
+@keyframes opacity-change {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}

@@ -1,0 +1,306 @@
+[
+  {
+    "width": 100,
+    "height": 44,
+    "type": "开关按钮",
+    "classes": 2,
+    "name": "开关按钮",
+    "imUrl": "iconkaiguananniu"
+  },
+  {
+    "width": 750,
+    "height": 40,
+    "type": "标题栏",
+    "classes": 2,
+    "name": "标题栏",
+    "imUrl": "iconbiaotilan"
+  },
+  {
+    "width": 240,
+    "height": 70,
+    "type": "拖动条",
+    "classes": 2,
+    "name": "拖动条",
+    "imUrl": "icontuodongtiao"
+  },
+  {
+    "width": 240,
+    "height": 55,
+    "type": "进度条",
+    "classes": 2,
+    "name": "进度条",
+    "imUrl": "iconjindutiao"
+  },
+  {
+    "width": 750,
+    "height": 50,
+    "type": "日期选择器",
+    "classes": 2,
+    "name": "日期选择器",
+    "imUrl": "iconriqixuanzeqi"
+  },
+  {
+    "width": 220,
+    "height": 30,
+    "type": "时间",
+    "classes": 2,
+    "name": "时间",
+    "imUrl": "iconshijian"
+  },
+  {
+    "width": 160,
+    "height": 300,
+    "type": "barchart",
+    "classes": 2,
+    "name": "棒图",
+    "imUrl": "iconbar"
+  },
+  {
+    "width": 260,
+    "height": 260,
+    "type": "饼图",
+    "classes": 2,
+    "name": "饼图",
+    "imUrl": "iconbingtu"
+  },
+  {
+    "width": 260,
+    "height": 260,
+    "type": "环图",
+    "classes": 2,
+    "name": "环图",
+    "imUrl": "iconhuantu"
+  },
+  {
+    "width": 400,
+    "height": 400,
+    "type": "环图2",
+    "classes": 2,
+    "name": "环图2",
+    "imUrl": "iconhuantu2"
+  },
+  {
+    "width": 398,
+    "height": 398,
+    "type": "gaugechart",
+    "classes": 2,
+    "name": "仪表盘",
+    "imUrl": "iconyibiaopan"
+  },
+  {
+    "width": 850,
+    "height": 300,
+    "type": "historylinechart",
+    "classes": 2,
+    "name": "单点历史曲线",
+    "imUrl": "icondandianlishiquxian"
+  },
+  {
+    "width": 850,
+    "height": 300,
+    "type": "foldlinechart",
+    "classes": 2,
+    "name": "折线图",
+    "imUrl": "iconzhexiantu"
+  },
+  {
+    "width": 740,
+    "height": 300,
+    "type": "foldlinenochart",
+    "classes": 2,
+    "name": "折线图(无时间)",
+    "imUrl": "iconzhexiantu2"
+  },
+  {
+    "width": 740,
+    "height": 300,
+    "type": "linechart",
+    "classes": 2,
+    "name": "实时图-1",
+    "imUrl": "iconshishitu"
+  },
+  {
+    "width": 740,
+    "height": 300,
+    "type": "realtimechart",
+    "classes": 2,
+    "name": "实时图-2",
+    "imUrl": "iconshishitu2"
+  },
+  {
+    "width": 230,
+    "height": 90,
+    "type": "mode",
+    "classes": 2,
+    "name": "模式按钮-1",
+    "imUrl": "iconanniu1"
+  },
+  {
+    "width": 120,
+    "height": 130,
+    "type": "mode2",
+    "classes": 2,
+    "name": "模式按钮-2",
+    "imUrl": "iconanniu2"
+  },
+  {
+    "width": 225,
+    "height": 50,
+    "type": "environment1",
+    "classes": 2,
+    "name": "环境标签-1",
+    "imUrl": "iconhuanjingbiaoqian"
+  },
+  {
+    "width": 130,
+    "height": 116,
+    "type": "environment2",
+    "classes": 2,
+    "name": "环境标签-2",
+    "imUrl": "iconhuanjingbiaoqian2"
+  },
+  {
+    "width": 476,
+    "height": 200,
+    "type": "aircon1",
+    "classes": 2,
+    "name": "空调1",
+    "imUrl": "iconkongtiao11"
+  },
+  {
+    "width": 72,
+    "height": 72,
+    "type": "aircon2",
+    "classes": 2,
+    "name": "空调2",
+    "imUrl": "iconkongtiao21"
+  },
+  {
+    "width": 340,
+    "height": 130,
+    "type": "aircon3",
+    "classes": 2,
+    "name": "空调3",
+    "imUrl": "iconkongtiao3"
+  },
+  {
+    "width": 380,
+    "height": 300,
+    "type": "aircon4",
+    "classes": 2,
+    "name": "空调4",
+    "imUrl": "iconkongtiao4"
+  },
+  {
+    "width": 200,
+    "height": 40,
+    "type": "灯光组-1",
+    "classes": 2,
+    "name": "灯光组-1",
+    "imUrl": "icondengguangzu"
+  },
+  {
+    "width": 300,
+    "height": 250,
+    "type": "灯光组-2",
+    "classes": 2,
+    "name": "灯光组-2",
+    "imUrl": "icondengguangzu2"
+  },
+  {
+    "width": 460,
+    "height": 200,
+    "type": "celltable",
+    "classes": 2,
+    "name": "简化表格",
+    "imUrl": "iconbiaoge"
+  },
+  {
+    "width": 893,
+    "height": 522,
+    "type": "table",
+    "classes": 2,
+    "name": "表格",
+    "imUrl": "iconbiaoge"
+  },
+  {
+    "width": 893,
+    "height": 522,
+    "type": "historytable",
+    "classes": 2,
+    "name": "历史数据表格",
+    "imUrl": "iconbiaoge"
+  },
+  {
+    "width": 950,
+    "height": 453,
+    "type": "statisticstable",
+    "classes": 2,
+    "name": "统计数据表格",
+    "imUrl": "iconbiaoge"
+  },
+  {
+    "width": 950,
+    "height": 453,
+    "type": "energytable",
+    "classes": 2,
+    "name": "能耗数据表格",
+    "imUrl": "iconbiaoge"
+  },
+  {
+    "width": 400,
+    "height": 90,
+    "type": "datacomparison",
+    "classes": 2,
+    "name": "数据对比图",
+    "imUrl": "iconshujuduibitu"
+  },
+  {
+    "width": 190,
+    "height": 70,
+    "type": "security",
+    "classes": 2,
+    "name": "安防",
+    "imUrl": "iconanfang"
+  },
+  {
+    "width": 400,
+    "height": 90,
+    "type": "statistics",
+    "classes": 2,
+    "name": "能耗标签",
+    "imUrl": "iconnenghaobiaoqian"
+  },
+  {
+    "width": 200,
+    "height": 48,
+    "type": "install",
+    "classes": 2,
+    "name": "设置标签",
+    "imUrl": "iconshezhibiaoqian"
+  },
+  {
+    "width": 800,
+    "height": 600,
+    "type": "mapChart",
+    "classes": 2,
+    "name": "地图",
+    "imUrl": "iconditu"
+  },
+  {
+    "width": 400,
+    "height": 300,
+    "type": "progressList",
+    "classes": 2,
+    "name": "进度列表",
+    "imUrl": "iconjindutiao"
+  },
+  {
+    "width": 800,
+    "height": 600,
+    "type": "mapGolde",
+    "classes": 2,
+    "name": "地图2",
+    "imUrl": "iconditu"
+  }
+]
